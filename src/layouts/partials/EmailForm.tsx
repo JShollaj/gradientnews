@@ -10,12 +10,13 @@ const EmailForm = () => {
 
     // Replace the URL with your actual API Gateway URL
     const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod', {
-      method: 'POST',
-      body: JSON.stringify({ email }),
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    });
+        method: 'POST',
+        body: JSON.stringify({ email }),
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+      
 
     const responseBody = await response.json();
 
