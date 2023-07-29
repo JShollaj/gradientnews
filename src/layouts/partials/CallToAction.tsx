@@ -1,6 +1,7 @@
 import ImageFallback from "@/helpers/ImageFallback";
 import { markdownify } from "@/lib/utils/textConverter";
 import { Call_to_action } from "@/types";
+import EmailForm from './EmailForm';  // Add this line
 
 interface PageData {
   notFound?: boolean;
@@ -38,14 +39,7 @@ const CallToAction = ({ data }: { data: PageData }) => {
                     )}
                     className="mb-6"
                   />
-                  {data.frontmatter.button.enable && (
-                    <a
-                      className="btn btn-primary"
-                      href={data.frontmatter.button.link}
-                    >
-                      {data.frontmatter.button.label}
-                    </a>
-                  )}
+                  <EmailForm />  {/* Add this line */}
                 </div>
               </div>
             </div>
