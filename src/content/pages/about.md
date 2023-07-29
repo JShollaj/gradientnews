@@ -1,10 +1,10 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Johnny Shollaj"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
-layout: "about"
+image: "https://dzslhiqiy3lnx.cloudfront.net/avatar-v5.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Several years of experience in industry and academia in the field of analytics and machine learning. 
+Previous work is associated with Big 4 companies, tech startups and entrepreneurship. Currently developing patents and writing research papers in the fields of natural language processing and blockchain development under the Business Analytics Center at the National University of Singapore.
