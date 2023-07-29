@@ -7,17 +7,14 @@ const EmailForm = () => {
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
 
-    // Use the URL of your API Gateway
     const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod/subscribe', {
       method: 'POST',
+      mode: 'no-cors', // Add this line
       body: JSON.stringify({ email }),
       headers: {
         'Content-Type': 'application/json'
       }
     });
-
-    // Log the response for debugging
-    console.log(await response.json());
 
     if (!response.ok) {
       // Handle error
