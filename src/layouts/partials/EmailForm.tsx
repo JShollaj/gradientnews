@@ -7,23 +7,28 @@ const EmailForm = () => {
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
 
-    const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod/subscribe', {
-      method: 'POST',
-      mode: 'no-cors', // Add this line
-      body: JSON.stringify({ email }),
-      headers: {
-        'Content-Type': 'application/json'
+    try {
+      const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod/subscribe', {
+        method: 'POST',
+        body: JSON.stringify({ email }),
+        headers: {
+          'Content-Type': 'application/json',
+          'X-Amz-Date': new Date().toISOString(),
+          'Authorization': '',  // Update this with your Authorization token
+          'X-Api-Key': '',  // Update this with your API Key
+          'X-Amz-Security-Token': ''  // Update this with your security token
+        }
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to subscribe email');
       }
-    });
 
-    if (!response.ok) {
-      // Handle error
-      console.error('Failed to subscribe email');
-      return;
+      // Clear the email field
+      setEmail('');
+    } catch (error) {
+      console.error(error);
     }
-
-    // Clear the email field
-    setEmail('');
   };
 
   return (
