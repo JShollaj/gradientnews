@@ -1,4 +1,4 @@
-"use client"; // Add this line
+"use client";
 import React, { useState } from "react";
 
 const EmailForm = () => {
@@ -8,13 +8,16 @@ const EmailForm = () => {
     event.preventDefault();
 
     // Use the URL of your API Gateway
-    const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod', {
+    const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod/subscribe', {
       method: 'POST',
       body: JSON.stringify({ email }),
       headers: {
         'Content-Type': 'application/json'
       }
     });
+
+    // Log the response for debugging
+    console.log(await response.json());
 
     if (!response.ok) {
       // Handle error
