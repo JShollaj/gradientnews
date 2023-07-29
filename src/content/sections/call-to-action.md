@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Next?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Nextplate and Next. Build lightning-fast static sites with ease and flexibility."
+title: "Subscribe to Weekly Newsletter"
+image: "https://dzslhiqiy3lnx.cloudfront.net/service-2-v4.png"
+description: "All the latest news and insights delivered to your email. **Forever free, no bias and always transparent to the community!**"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/nextplate"
+  label: "About"
+  link: "https://www.gradientnews.net/about/"
 ---

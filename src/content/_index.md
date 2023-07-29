@@ -1,53 +1,28 @@
 ---
 # Banner
 banner:
-  title: "Change"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
-  image: "/images/banner.png"
+  title: "Latest Developments in AI - Curated for the General Audience"
+  content: "Keeping track of the advancements in the field of Machine Learning while providing findings in an accessible manner - filtered out from hype and noise."
+  image: "https://dzslhiqiy3lnx.cloudfront.net/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/nextplate"
+    label: "Read Latest Report"
+    link: "https://www.gradientnews.net/blog/"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
-    image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+  - title: "How We Collect & Summarize the News"
+    image: "https://dzslhiqiy3lnx.cloudfront.net/service-1-v2.png"
+    content: "We follow a systematic literature review from the latest news on machine learning developments, through a variety of sources such as:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "14+ Academic research sites (sites such as IEEE, ACM, SSRN etc.)"
+      - "25+ Blogs (including likes of: AI Today, News MIT, BAIR etc.)"
+      - "Trending repositories, topics and collections from Github, GitLab."
+      - "Latest news from 60+ sites (such as: Google News, Yahoo News etc.)"
+      - "Discussions and opinions with highest engagements from various platforms and communities (Linkedin, Sub-Reddits, etc.)"
+      - "**All reviewed and filtered for authenticity, impact, novelty with commentary insights from professionals in the field!**"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Subscribe"
       link: "#"
-
-  - title: "Discover the Key Features Of Next"
-    image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/nextplate"
-
-  - title: "The Top Reasons to Choose Next for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
