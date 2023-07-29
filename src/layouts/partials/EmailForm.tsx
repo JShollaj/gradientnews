@@ -3,13 +3,13 @@ import React, { useState } from "react";
 
 const EmailForm = () => {
   const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
 
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
 
-    // Here you would make a request to your API Gateway, passing the email
-    // Please replace the URL with your actual API Gateway URL
-    const response = await fetch('https://your-api-gateway-url.com/endpoint', {
+    // Replace the URL with your actual API Gateway URL
+    const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod', {
       method: 'POST',
       body: JSON.stringify({ email }),
       headers: {
@@ -17,14 +17,18 @@ const EmailForm = () => {
       }
     });
 
+    const responseBody = await response.json();
+
     if (!response.ok) {
       // Handle error
       console.error('Failed to subscribe email');
+      setMessage(responseBody.error || 'Failed to subscribe email');
       return;
     }
 
     // Clear the email field
     setEmail('');
+    setMessage('Email stored successfully.');
   };
 
   return (
@@ -43,6 +47,7 @@ const EmailForm = () => {
       >
         Subscribe
       </button>
+      {message && <p>{message}</p>}
     </form>
   );
 };
