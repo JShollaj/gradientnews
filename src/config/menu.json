@@ -2,20 +2,24 @@
   "main": [
     {
       "name": "Home",
-      "url": "/home"
+      "url": "/"
     },
     {
-      "name": "Author",
+      "name": "About",
       "url": "/about"
     },
     {
-      "name": "Blog",
-      "url": "/blog",
-      "hasChildren": false,
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
       "children": [
         {
-          "name": "About",
-          "url": "/about"
+          "name": "Contact",
+          "url": "/contact"
         },
         {
           "name": "Blog",
