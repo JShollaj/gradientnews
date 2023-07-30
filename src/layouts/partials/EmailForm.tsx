@@ -31,7 +31,7 @@ const EmailForm = () => {
 
     if (!response.ok) {
       // Handle error
-      setMessage("Successfully subscribed. Check your email every Sunday for latest news!");
+      setMessage("Failed to subscribe email. Please try again later.");
       console.error('Failed to subscribe email');
       return;
     }
