@@ -1,4 +1,5 @@
 const config = require("./src/config/config.json");
+const Critters = require('critters-webpack-plugin');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -8,6 +9,12 @@ const nextConfig = {
   output: 'standalone',
   images: {
     domains: ['dzslhiqiy3lnx.cloudfront.net'],
+  },
+  webpack: (config, { dev, isServer }) => {
+    if (!dev && !isServer) {
+      config.plugins.push(new Critters({ preload: 'swap' }));
+    }
+    return config;
   },
 };
 

@@ -49,6 +49,7 @@
     "@types/react-dom": "18.2.7",
     "@types/react-google-recaptcha": "^2.1.5",
     "autoprefixer": "^10.4.14",
+    "critters-webpack-plugin": "^3.0.2",
     "eslint": "^8.45.0",
     "eslint-config-next": "13.4.12",
     "postcss": "^8.4.27",
