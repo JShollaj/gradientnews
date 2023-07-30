@@ -1,5 +1,6 @@
 const config = require("./src/config/config.json");
 const Critters = require('critters-webpack-plugin');
+const TerserPlugin = require('terser-webpack-plugin');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -13,7 +14,20 @@ const nextConfig = {
   webpack: (config, { dev, isServer }) => {
     if (!dev && !isServer) {
       config.plugins.push(new Critters({ preload: 'swap' }));
+
+      config.optimization.minimize = true;
+      config.optimization.minimizer = [
+        new TerserPlugin({
+          terserOptions: {
+            compress: {
+              unused: true,
+              dead_code: true,
+            },
+          },
+        }),
+      ];
     }
+
     return config;
   },
 };
