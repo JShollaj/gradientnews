@@ -1,14 +1,41 @@
+import { useState } from 'react';
 import config from "@/config/config.json";
 import { getListPage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
 import { RegularPage } from "@/types";
 
-const Contact = async () => {
+const Contact = () => {
   const data: RegularPage = getListPage("pages/contact.md");
   const { frontmatter } = data;
   const { title, description, meta_title, image } = frontmatter;
-  const { contact_form_action } = config.params;
+
+  const [name, setName] = useState(''); 
+  const [email, setEmail] = useState(''); 
+  const [message, setMessage] = useState('');
+
+  const handleSubmit = async (event: React.FormEvent) => { 
+    event.preventDefault();
+
+    const response = await fetch('https://bqaippenz3.execute-api.ap-southeast-1.amazonaws.com/prod/contactform', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ name, email, message }),
+    });
+
+    if (!response.ok) {
+      console.error('Failed to send message');
+      return;
+    }
+
+    setName('');
+    setEmail('');
+    setMessage('');
+
+    alert('Message sent successfully!');
+  };
 
   return (
     <>
@@ -23,7 +50,7 @@ const Contact = async () => {
         <div className="container">
           <div className="row">
             <div className="mx-auto md:col-10 lg:col-6">
-              <form action={contact_form_action} method="POST">
+              <form onSubmit={handleSubmit}>
                 <div className="mb-6">
                   <label htmlFor="name" className="form-label">
                     Full Name <span className="text-red-500">*</span>
@@ -33,6 +60,8 @@ const Contact = async () => {
                     className="form-input"
                     placeholder="John Doe"
                     type="text"
+                    value={name}
+                    onChange={(e) => setName(e.target.value)}
                   />
                 </div>
                 <div className="mb-6">
@@ -44,6 +73,8 @@ const Contact = async () => {
                     className="form-input"
                     placeholder="john.doe@email.com"
                     type="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
                   />
                 </div>
                 <div className="mb-6">
@@ -55,6 +86,8 @@ const Contact = async () => {
                     placeholder="Message goes here..."
                     id="message"
                     rows={8}
+                    value={message}
+                    onChange={(e) => setMessage(e.target.value)}
                   ></textarea>
                 </div>
                 <button type="submit" className="btn btn-primary">
