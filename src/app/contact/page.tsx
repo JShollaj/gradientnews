@@ -1,10 +1,11 @@
+"use client";
+
 import { useState } from 'react';
 import { GetStaticProps } from 'next';
 import { getListPage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
 import { RegularPage } from "@/types";
-
 
 interface ContactProps {
   data: RegularPage;
