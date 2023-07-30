@@ -54,7 +54,7 @@ const Unsubscribe = () => {
                   </label>
                   <input
                     id="email"
-                    className="form-input"
+                    className="form-input w-full"  // Add 'w-full' here
                     placeholder="john.doe@email.com"
                     type="email"
                     value={email} 
@@ -80,7 +80,7 @@ const Unsubscribe = () => {
                   onChange={handleRecaptchaChange}
                 />
 
-                <button type="submit" className="btn btn-primary">
+                <button type="submit" className="btn btn-primary mt-4">
                   Unsubscribe
                 </button>
 
