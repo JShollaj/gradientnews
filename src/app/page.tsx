@@ -5,7 +5,7 @@ import CallToAction from "@/partials/CallToAction";
 import SeoMeta from "@/partials/SeoMeta";
 import Testimonials from "@/partials/Testimonials";
 import { Button, Feature } from "@/types";
-
+import { FaCheck } from 'react-icons/fa';
 
 const Home = () => {
   const homepage = getListPage("_index.md");
@@ -89,6 +89,14 @@ const Home = () => {
                   className="mb-8 text-lg"
                   dangerouslySetInnerHTML={markdownify(feature.content)}
                 />
+                <ul>
+                  {feature.bulletpoints.map((bullet: string) => (
+                    <li className="relative mb-4 pl-6" key={bullet}>
+                      <FaCheck className={"absolute left-0 top-1.5"} />
+                      <span dangerouslySetInnerHTML={markdownify(bullet)} />
+                    </li>
+                  ))}
+                </ul>
                 {feature.button.enable && (
                   <a
                     className="btn btn-primary mt-5"
