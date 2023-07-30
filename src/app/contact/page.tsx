@@ -5,7 +5,11 @@ import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
 import { RegularPage } from "@/types";
 
-const Contact = ({ data }: { data: RegularPage }) => {
+interface ContactProps {
+  data: RegularPage;
+}
+
+const Contact: React.FC<ContactProps> = ({ data }) => {
   const { frontmatter } = data;
   const { title, description, meta_title, image } = frontmatter;
 
