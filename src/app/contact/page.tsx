@@ -1,3 +1,4 @@
+"use client";
 import { useState } from 'react';
 import config from "@/config/config.json";
 import { getListPage } from "@/lib/contentParser";
