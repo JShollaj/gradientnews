@@ -1,13 +1,11 @@
-"use client";
 import { useState } from 'react';
-import config from "@/config/config.json";
+import { GetStaticProps } from 'next';
 import { getListPage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
 import { RegularPage } from "@/types";
 
-const Contact = () => {
-  const data: RegularPage = getListPage("pages/contact.md");
+const Contact = ({ data }: { data: RegularPage }) => {
   const { frontmatter } = data;
   const { title, description, meta_title, image } = frontmatter;
 
@@ -101,6 +99,16 @@ const Contact = () => {
       </section>
     </>
   );
+};
+
+export const getStaticProps: GetStaticProps = async () => {
+  const data: RegularPage = getListPage("pages/contact.md");
+
+  return {
+    props: {
+      data,
+    },
+  };
 };
 
 export default Contact;
