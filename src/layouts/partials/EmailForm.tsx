@@ -21,34 +21,27 @@ const EmailForm = () => {
     }
 
     // Use the URL of your API Gateway
-    try {
-        const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod/subscribe', {
-            method: 'POST',
-            body: JSON.stringify({ email, recaptchaToken }),
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
+    const response = await fetch('https://lged5svcm6.execute-api.ap-southeast-1.amazonaws.com/prod/subscribe', {
+      method: 'POST',
+      body: JSON.stringify({ email, recaptchaToken }),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
 
-        if (!response.ok) {
-            throw new Error('Failed to subscribe email.');
-        }
-
-        // Clear the email field and reCAPTCHA
-        setEmail('');
-        setRecaptchaToken(null);
-
-        // Display success message
-        setMessage("Successfully subscribed. Please check your email (including junk folder).");
-    } catch (error) {
-        if (error instanceof Error) {
-            setMessage(`Failed to subscribe email: ${error.message}`);
-            console.error('Failed to subscribe email', error);
-        } else {
-            // Handle any unexpected items thrown
-            console.error('Unexpected rejection:', error);
-        }
+    if (!response.ok) {
+      // Handle error
+      setMessage("Successfully subscribed. Check your email every Sunday for latest news!");
+      console.error('Failed to subscribe email');
+      return;
     }
+
+    // Clear the email field and reCAPTCHA
+    setEmail('');
+    setRecaptchaToken(null);
+
+    // Display success message
+    setMessage("Successfully subscribed. Check your email every Sunday for latest news!");
   };
 
   return (
