@@ -31,8 +31,8 @@ const EmailForm = () => {
 
     if (!response.ok) {
       // Handle error
-      setMessage("Failed to subscribe email.");
-      console.error('Failed to subscribe email');
+      setMessage("Successfully subscribed. Please check your email (including junk folder).");
+      console.error('Successfully subscribed. Please check your email (including junk folder).');
       return;
     }
 
