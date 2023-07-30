@@ -29,8 +29,8 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "About",
-    "link": "https://www.gradientnews.net/about"
+    "label": "Contact",
+    "link": "https://www.gradientnews.net/contact"
   },
 
   "disqus": {

@@ -5,37 +5,25 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
       "name": "Blog",
       "url": "/blog"
     },
     {
-      "name": "Pages",
+      "name": "Other Pages",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "About Author",
+          "url": "/about"
         },
         {
           "name": "Categories",
           "url": "/categories"
         },
         {
-          "name": "Search",
-          "url": "/search"
+          "name": "Contact",
+          "url": "/contact"
         },
         {
           "name": "Unsubscribe",
