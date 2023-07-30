@@ -5,7 +5,7 @@ import CallToAction from "@/partials/CallToAction";
 import SeoMeta from "@/partials/SeoMeta";
 import Testimonials from "@/partials/Testimonials";
 import { Button, Feature } from "@/types";
-import { FaCheck } from "react-icons/fa/index.js";
+import { FaCheck } from 'react-icons/fa';
 
 const Home = () => {
   const homepage = getListPage("_index.md");
