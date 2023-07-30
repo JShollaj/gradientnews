@@ -38,8 +38,8 @@
           "url": "/search"
         },
         {
-          "name": "404 Page",
-          "url": "/404"
+          "name": "Unsubscribe",
+          "url": "/unsubscribe"
         }
       ]
     }

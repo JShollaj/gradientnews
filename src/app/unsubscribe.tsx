@@ -1,9 +1,9 @@
-"use client";
-import React, { useState, useCallback } from "react";
+import { useState, useCallback } from "react";
 import ReCAPTCHA from "react-google-recaptcha";
 
-const UnsubscribeForm = () => {
+const UnsubscribePage = () => {
   const [email, setEmail] = useState("");
+  const [feedback, setFeedback] = useState("");
   const [recaptchaToken, setRecaptchaToken] = useState<string | null>(null);
   const [message, setMessage] = useState("");
 
@@ -14,62 +14,81 @@ const UnsubscribeForm = () => {
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
 
-    // Check if the reCAPTCHA token is present
     if (!recaptchaToken) {
       setMessage("Please verify the reCAPTCHA before submitting.");
       return;
     }
 
-    // Use the URL of your API Gateway
-    const response = await fetch('{Invoke URL}/unsubscribe', {
+    const response = await fetch('https://vrvjztvde5.execute-api.ap-southeast-1.amazonaws.com/prod', {
       method: 'POST',
-      body: JSON.stringify({ email, recaptchaToken }),
+      body: JSON.stringify({ email, feedback, recaptchaToken }),
       headers: {
         'Content-Type': 'application/json'
       }
     });
 
     if (!response.ok) {
-      // Handle error
-      setMessage("Failed to unsubscribe email. Please try again later.");
-      console.error('Failed to unsubscribe email');
+      setMessage("Failed to unsubscribe. Please try again later.");
+      console.error('Failed to unsubscribe');
       return;
     }
 
-    // Clear the email field and reCAPTCHA
     setEmail('');
+    setFeedback('');
     setRecaptchaToken(null);
 
-    // Display success message
-    setMessage("Successfully unsubscribed. You will not receive any more emails from us.");
+    setMessage("Successfully unsubscribed. Thank you for your feedback!");
   };
 
   return (
-    <form onSubmit={handleSubmit} className="mt-4 space-y-4">
-      <input 
-        type="email" 
-        value={email} 
-        onChange={(e) => setEmail(e.target.value)}
-        placeholder="Enter Email Here"
-        required 
-        className="px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:border-gray-600 dark:focus:ring-offset-gray-900 dark:focus:ring-indigo-500 dark:focus:border-indigo-500"
-      />
+    <>
+      <div className="mx-auto md:col-10 lg:col-6">
+        <form onSubmit={handleSubmit} className="mt-4 space-y-4">
+          <div className="mb-6">
+            <label htmlFor="email" className="form-label">
+              Email <span className="text-red-500">*</span>
+            </label>
+            <input 
+              id="email"
+              type="email" 
+              value={email} 
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="Enter your email here"
+              required 
+              className="form-input"
+            />
+          </div>
 
-      <ReCAPTCHA
-        sitekey="6LfnimUnAAAAAKwCUX2PVZOr4QXxZ7vzFuGV0zeB"
-        onChange={handleRecaptchaChange}
-      />
+          <div className="mb-6">
+            <label htmlFor="feedback" className="form-label">
+              Feedback
+            </label>
+            <textarea 
+              id="feedback"
+              value={feedback}
+              onChange={(e) => setFeedback(e.target.value)}
+              placeholder="If you'd like, tell us why you're unsubscribing."
+              className="form-input"
+            />
+          </div>
 
-      <button 
-        type="submit"
-        className="px-6 py-2 mt-4 text-white bg-black rounded-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-50 focus:ring-black"
-      >
-        Unsubscribe
-      </button>
+          <ReCAPTCHA
+            sitekey="6LfnimUnAAAAAKwCUX2PVZOr4QXxZ7vzFuGV0zeB"
+            onChange={handleRecaptchaChange}
+          />
 
-      <p>{message}</p>
-    </form>
+          <button 
+            type="submit"
+            className="btn btn-primary"
+          >
+            Unsubscribe
+          </button>
+
+          <p>{message}</p>
+        </form>
+      </div>
+    </>
   );
 };
 
-export default UnsubscribeForm;
+export default UnsubscribePage;
