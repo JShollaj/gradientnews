@@ -1,20 +1,10 @@
 "use client";
 
 import { useState } from 'react';
-import { GetStaticProps } from 'next';
-import { getListPage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
-import { RegularPage } from "@/types";
 
-interface ContactProps {
-  data: RegularPage;
-}
-
-const Contact: React.FC<ContactProps> = ({ data }) => {
-  const { frontmatter } = data;
-  const { title, description, meta_title, image } = frontmatter;
-
+const Contact = () => {
   const [name, setName] = useState(''); 
   const [email, setEmail] = useState(''); 
   const [message, setMessage] = useState('');
@@ -45,12 +35,12 @@ const Contact: React.FC<ContactProps> = ({ data }) => {
   return (
     <>
       <SeoMeta
-        title={title}
-        meta_title={meta_title}
-        description={description}
-        image={image}
+        title="Contact"
+        meta_title="Contact"
+        description="Contact page"
+        image="image_url"
       />
-      <PageHeader title={title} />
+      <PageHeader title="Contact" />
       <section className="section-sm">
         <div className="container">
           <div className="row">
@@ -105,16 +95,6 @@ const Contact: React.FC<ContactProps> = ({ data }) => {
       </section>
     </>
   );
-};
-
-export const getStaticProps: GetStaticProps = async () => {
-  const data: RegularPage = getListPage("pages/contact.md");
-
-  return {
-    props: {
-      data,
-    },
-  };
 };
 
 export default Contact;
