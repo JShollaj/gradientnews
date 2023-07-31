@@ -52,7 +52,7 @@ const EmailForm = () => {
         onChange={(e) => setEmail(e.target.value)}
         placeholder="Enter Email Here"
         required 
-        className="form-input w-1/2 px-3 py-2 placeholder-gray-800 border border-gray-800 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 dark:bg-gray-700 dark:text-white dark:border-gray-600 dark:focus:ring-offset-gray-900"
+        className="form-input w-full md:w-1/2 px-3 py-2 placeholder-gray-800 border border-gray-800 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 dark:bg-gray-700 dark:text-white dark:border-gray-600 dark:focus:ring-offset-gray-900"
       />
 
       <ReCAPTCHA

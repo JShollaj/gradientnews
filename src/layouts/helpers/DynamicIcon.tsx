@@ -1,6 +1,6 @@
 import { FC } from "react";
 import type { IconType } from "react-icons";
-import { FaUser, FaLock } from "react-icons/fa6";
+import { FaUser, FaLock, FaYoutube, FaLinkedin, FaGithub } from "react-icons/fa6";
 
 // Define your type and interface as usual
 type IconMap = Record<string, IconType>;
@@ -12,8 +12,11 @@ interface IDynamicIcon extends React.SVGProps<SVGSVGElement> {
 
 // Map all the icons you'll be using to their names
 const iconMap: IconMap = {
-  FaUser: FaUser,
-  FaLock: FaLock,
+  "FaUser": FaUser,
+  "FaLock": FaLock,
+  "FaYoutube": FaYoutube,
+  "FaLinkedin": FaLinkedin,
+  "FaGithub": FaGithub,
   // Add more icons as necessary...
 };
 
