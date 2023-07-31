@@ -6,6 +6,7 @@ import SeoMeta from "@/partials/SeoMeta";
 import Testimonials from "@/partials/Testimonials";
 import { Button, Feature } from "@/types";
 
+
 const Home = () => {
   const homepage = getListPage("_index.md");
   const testimonial = getListPage("sections/testimonial.md");
