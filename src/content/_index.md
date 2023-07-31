@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "How We Collect & Summarize the News"
-    image: "https://dzslhiqiy3lnx.cloudfront.net/service-1-v2.png"
+    image: "https://dzslhiqiy3lnx.cloudfront.net/service-1-v6.png"
     content: "We follow a systematic literature review from the latest news on machine learning developments, through a variety of sources such as:"
     bulletpoints:
       - "14+ Academic research sites (sites such as IEEE, ACM, SSRN etc.)"
