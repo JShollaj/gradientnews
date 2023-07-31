@@ -8,4 +8,5 @@ banner:
     enable: true
     label: "Read Latest Report"
     link: "https://www.gradientnews.net/blog/"
+    
 ---
