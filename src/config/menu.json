@@ -24,10 +24,6 @@
         {
           "name": "Contact",
           "url": "/contact"
-        },
-        {
-          "name": "Unsubscribe",
-          "url": "/unsubscribe"
         }
       ]
     }
