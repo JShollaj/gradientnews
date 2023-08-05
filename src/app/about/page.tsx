@@ -21,7 +21,7 @@ const About = () => {
       <section className="section-sm">
         <div className="container">
           <div className="row justify-center">
-            <div className="text-center md:col-10 lg:col-7">
+            <div className="md:col-10 lg:col-7">
               {image && (
                 <ImageFallback
                   className="mx-auto mb-6 rounded-lg"
@@ -33,9 +33,9 @@ const About = () => {
               )}
               <h2
                 dangerouslySetInnerHTML={markdownify(title)}
-                className="h3 mb-6"
+                className="h3 mb-6 text-center" // Add 'text-center' to center the title
               />
-              <div className="content">
+              <div className="content text-left"> 
                 <MDXContent content={content} />
               </div>
             </div>
