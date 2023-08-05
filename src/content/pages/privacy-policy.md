@@ -1,7 +1,7 @@
 ---
 title: "Privacy"
 meta_title: "Privacy Policy"
-description: "This is the privacy policy for Gradient News."
+description: "Privacy policy for Gradient News."
 draft: false
 ---
 
