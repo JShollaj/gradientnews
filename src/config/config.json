@@ -4,9 +4,9 @@
     "base_url": "https://www.gradientnews.net",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "https://dzslhiqiy3lnx.cloudfront.net/favicon.png",
-    "logo": "https://dzslhiqiy3lnx.cloudfront.net/logo.png",
-    "logo_darkmode": "https://dzslhiqiy3lnx.cloudfront.net/logo-darkmode.png",
+    "favicon": "https://dzslhiqiy3lnx.cloudfront.net/main/favicon.png",
+    "logo": "https://dzslhiqiy3lnx.cloudfront.net/main/logo.png",
+    "logo_darkmode": "https://dzslhiqiy3lnx.cloudfront.net/main/logo-darkmode.png",
     "logo_width": "100",
     "logo_height": "100",
     "logo_text": "Gradient News"

@@ -10,7 +10,7 @@ tags: ["Generative AI","ChatGPT", "OpenAI"]
 draft: false
 ---
 
-**As you have probably realized by now, our newsfeed and social media is build on shaky foundations**. 
+As you have probably realized by now, our newsfeed and social media is build on shaky foundations. 
 
 Every day we are  overwhelmed by clickbait headliners, content without any substance or with an obvious agenda behind.
 TikTok and YouTube shorts are overtaking social media. Most users usually jump to conclusions without reading a full
