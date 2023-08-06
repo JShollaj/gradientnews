@@ -31,6 +31,10 @@ by it?
 - Select most ridicoulous claims by [McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction)
 - Report by [Goldman Sachs](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
 - However, what is the true value of Generative AI and the likes?
+- [MIT Sloan Review](https://sloanreview.mit.edu/article/dont-get-distracted-by-the-hype-around-generative-ai/) main points
+- What are the main use cases of ChatGPT and Generative AI in general. Review several videos and articles. (F.ex 
+Graphic Designer review of ChatGPT; Law; Math; Coding).
+- Main Issues with ChatGPT and other models.
 - [How to Lie With Statistics](https://libgen.is/book/index.php?md5=BA9B2ACF3ECD3CD12E0FA59372F7DFFB) book summary
 
 - [Weapons of Math Destruction](https://libgen.is/book/index.php?md5=202AA265DE557E20820C62A6342AF0E1) key points
@@ -38,4 +42,10 @@ by it?
 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
+
+### The Generative AI Startup Hallucination
+
+- Most companies built on top of GPT4 API - real moat?
+
+### The Hypocrisy of Blockchain Leaders & Communities
 
