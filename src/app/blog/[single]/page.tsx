@@ -79,7 +79,7 @@ const PostSingle = ({ params }: { params: { single: string } }) => {
               />
               <ul className="mb-4">
                 <li className="mr-4 inline-block">
-                  <a href={`/authors/${slugify(author)}`}>
+                  <a href='https://www.linkedin.com/in/xs94/'>
                     <FaRegUserCircle className={"-mt-1 mr-2 inline-block"} />
                     {humanize(author)}
                   </a>

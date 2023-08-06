@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Johnny Shollaj
+email: xhoni
 image: "/images/avatar.png"
 description: this is meta description
 social:

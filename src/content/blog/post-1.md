@@ -1,23 +1,36 @@
 ---
-title: "How to build an Application with modern Technology"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+title: "Does the Truth Matter?"
+meta_title: "Does the Truth Matter?"
+description: "How to survive in a hallucinating world!"
+date: 2023-08-06T05:00:00Z
+image: "https://dzslhiqiy3lnx.cloudfront.net/post-1/post-1-main.png"
+categories: ["Generative AI"]
+author: "Johnny Shollaj"
+tags: ["Generative AI","ChatGPT", "OpenAI"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+**As you have probably realized by now, our newsfeed and social media is build on shaky foundations**. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Every day we are  overwhelmed by clickbait headliners, content without any substance or with an obvious agenda behind.
+TikTok and YouTube shorts are overtaking social media. Most users usually jump to conclusions without reading a full
+article or verifying the sources  - but instead they choose to rely on their feelings and emotions while mindlessly scrolling.
 
-## Creative Design
+As studies conducted by [Berger & Milkman](https://consumerresearcher.com/jonah-berger-contagious) explain, extreme emotional triggers (whether anxiety or excitement) tend to extract more engagement from users. Most social media platforms are usually build on top of algorithms which dont necessarily punish negative content, but instead increase the likelihood it will be recommended to other users, therefore gain more exposure [as a study from Mozilla shows](https://foundation.mozilla.org/en/youtube/user-controls/).
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Therefore, its not surprising to see an increase in either [**overhyped**](https://www.youtube.com/watch?v=RzkD_rTEBYs) or [**doomsday scenarios**](https://www.youtube.com/watch?v=jW2ihBRzLxc&t=172s) for Generative AI. No better advertisement for your next book, course or product than selling desperation, anxiety or hope.
 
+![Circumplex Model of Emotions](https://dzslhiqiy3lnx.cloudfront.net/post-1/post-1-emotions-marketing-v1.png)
+
+Now as we watch Linkedin slowly fade to a new Tumblr, lets step back and bring to context the latest ongoing trend,
+in Artificial Intelligence. How will the latest hot topic affect the current digital stage? And how will it be affected
+by it?
+
+### The AI Mirage
+
+- Select most ridicoulous claims by McKinsey
+- Lying With Statistics book
+- 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
