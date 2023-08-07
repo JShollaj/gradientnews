@@ -2,7 +2,7 @@
 title: "Methodology"
 meta_title: "About"
 description: "How we collect data"
-image: "https://dzslhiqiy3lnx.cloudfront.net/methodology-v2.png"
+image: ""
 draft: false
 ---
 
