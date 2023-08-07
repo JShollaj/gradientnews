@@ -47,5 +47,15 @@ Graphic Designer review of ChatGPT; Law; Math; Coding).
 
 - Most companies built on top of GPT4 API - real moat?
 
-### The Hypocrisy of Blockchain Leaders & Communities
+### The Blockchain Blackbox & Crypto Cons
+
+- Not long ago, had same, if not more hype. What happened?
+- Shifting from community of scientists and nerds to massive gala shows.
+- Database of cons, scams and rug pulls, and get rich quick pyramid schemes.
+
+### The Hype Gradient Descent
+
+- True value of promised technologies (guide, map)
+- Truthful sources
+- My news and initiative
 
