@@ -1,5 +1,5 @@
 ---
-title: "AI Developments: Issue 1"
+title: "AI Developments: Report #1"
 meta_title: "Latest Developments"
 description: "Latest developments in the field of AI (Aug 7, 2023 - Aug 14, 2023)"
 date: 2023-08-14T05:00:00Z
