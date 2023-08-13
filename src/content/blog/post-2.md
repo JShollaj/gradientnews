@@ -19,15 +19,38 @@ Interesting Repositories etc.
 
 ### General News
 
-https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections 
+#### The Guardian: [A Tsunami of AI Misinformation Will Shape Next Year’s Knife-Edge Elections](https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections)
 
-https://venturebeat.com/ai/machine-unlearning-the-critical-art-of-teaching-ai-to-forget/
+**Summary**: "The upcoming 2024 elections in various democratic countries, especially the US, are facing the threat of AI-generated misinformation that can significantly impact the results. With the advancements in AI tools like ChatGPT and others, creating and spreading false information has become easier and more convincing. The consequences of a manipulated election could be significant, potentially leading to a drastic change in US governance. Despite awareness of this threat, practical solutions seem lacking, as academia and tech companies grapple with the challenge."
 
-https://news.yahoo.com/rise-machines-ai-spells-danger-014733770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIh0QeuLIOQzJrf6pQYzrtrGFjpey3m640mARnCYJb3PxkCWl1XO2bKyvgzKGRdewEaxFEDDkkcuUw1CU5sDQOdMvWI1hzaSHSsOL_tJKOx3APQIbKwwiJ6zthf_r4tGEVzq_sQTqL_4zp42U7cuKJuV79FkB6tygAV7ZLi1eTuD
+**Key Takeaway**: "AI-enabled misinformation poses a serious risk to the integrity of global elections, particularly in 2024, with the potential to tip the balance in crucial votes. The need for robust mechanisms to counteract this threat is urgent, but current efforts may be hampered by technological interests and lack of decisive action from platform owners."
+
+***[Read Full Article](https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections)***
+
+*John Naughton | The Guardian* <br></br>
+*Publication Date: August 12, 2023*
+
+---
+
+#### Venture Beat: [Machine unlearning: The critical art of teaching AI to forget](https://venturebeat.com/ai/machine-unlearning-the-critical-art-of-teaching-ai-to-forget/)
+
+**Summary**:
+Machine unlearning is an emerging field in AI that focuses on teaching algorithms to "forget" or erase specific datasets. This process is crucial when algorithms are trained on outdated, incorrect, or private data. However, current methods for machine unlearning are costly and time-consuming, and a complete solution has not yet been found. Recent research and competition, such as Google's machine unlearning challenge, are making progress towards effective unlearning methods. Businesses are urged to implement strategies to align with legal and ethical standards and to keep pace with machine unlearning as a part of responsible AI practice.
+
+**Key Takeaway**:
+Machine unlearning presents both a significant opportunity and challenge for businesses, particularly concerning privacy, security, and ethics. The growing demand for this capability has sparked research and investment, but solutions are still in development. A comprehensive understanding and implementation of machine unlearning practices will be essential for businesses employing large datasets and AI models, impacting how organizations manage data handling, compliance, and adapt to the dynamic nature of AI and ML.
+
+***[Read Full Article](https://venturebeat.com/ai/machine-unlearning-the-critical-art-of-teaching-ai-to-forget/)***
+
+*Matthew Duffin | Venture Beat* <br></br>
+*Publication Date: August 12, 2023*
+
+---
+
 
 https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/
+
 https://www.crn.com/news/cloud/amazon-s-potential-arm-ipo-investment-5-things-to-know-from-ai-to-aws
-https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/
 
 https://www.bloomberg.com/news/newsletters/2023-08-11/midjourney-rules-can-easily-break-with-certain-prompts?in_source=embedded-checkout-banner#xj4y7vzkg
 
