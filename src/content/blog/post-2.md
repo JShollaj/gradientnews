@@ -12,7 +12,39 @@ draft: false
 
 ## Executive Summary
 
-The main AI developments this week have occured in the field
+The main AI developments this week have occured in the field include NVIDIA Super Chip Platform, New Algorithms, Research Papers,
+Interesting Repositories etc.
+
+---
+
+### General News
+
+https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections 
+
+https://venturebeat.com/ai/machine-unlearning-the-critical-art-of-teaching-ai-to-forget/
+
+https://news.yahoo.com/rise-machines-ai-spells-danger-014733770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIh0QeuLIOQzJrf6pQYzrtrGFjpey3m640mARnCYJb3PxkCWl1XO2bKyvgzKGRdewEaxFEDDkkcuUw1CU5sDQOdMvWI1hzaSHSsOL_tJKOx3APQIbKwwiJ6zthf_r4tGEVzq_sQTqL_4zp42U7cuKJuV79FkB6tygAV7ZLi1eTuD
+
+https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/
+https://www.crn.com/news/cloud/amazon-s-potential-arm-ipo-investment-5-things-to-know-from-ai-to-aws
+https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/
+
+https://www.bloomberg.com/news/newsletters/2023-08-11/midjourney-rules-can-easily-break-with-certain-prompts?in_source=embedded-checkout-banner#xj4y7vzkg
+
+https://indianexpress.com/article/technology/artificial-intelligence/what-is-googles-project-idx-8887316/
+
+https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says
+
+https://decrypt.co/151849/cube3-ai-secures-8-2m-to-launch-ai-powered-blockchain-security-app
+
+https://www.deseret.com/2023/8/8/23824559/detroit-woman-suing-police-after-shoddy-ai-facial-recognition-leads-to-false-arrest-during-pregnancy
+
+https://www.ft.com/content/6f022306-2f83-4da7-8066-51386e8fe63b
+
+https://finance.yahoo.com/news/investors-dropping-billions-startups-ai-160120618.html
+
+https://www.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories
+
 
 ---
 ### Research Blogs
@@ -174,10 +206,13 @@ The paper proposes a knowledge-enhanced GAN (Generative Adversarial Network) for
 
 **Key Takeaways**:
 
-nnovative Model: The introduction of a GAN model with urban knowledge graphs allows for accurate simulation of long-term cellular traffic, capturing both periodic and aperiodic patterns.
-Urban Environment Integration: By considering various urban factors, the model effectively tailors cellular traffic predictions to specific urban dynamics.
-Significant Performance Improvement: With over 32% improvement compared to existing models and a further 4.71% from urban knowledge enhancement, the method exhibits superior fidelity.
-Generalization & Application: Demonstrated effectiveness across different urban areas and potential applicability to other traffic types such as website visiting and urban passenger traffic supports the model's broader relevance and scalability.
+- Innovative Model: The introduction of a GAN model with urban knowledge graphs allows for accurate simulation of long-term cellular traffic, capturing both periodic and aperiodic patterns.
+
+- Urban Environment Integration: By considering various urban factors, the model effectively tailors cellular traffic predictions to specific urban dynamics.
+
+- Significant Performance Improvement: With over 32% improvement compared to existing models and a further 4.71% from urban knowledge enhancement, the method exhibits superior fidelity.
+
+- Generalization & Application: Demonstrated effectiveness across different urban areas and potential applicability to other traffic types such as website visiting and urban passenger traffic supports the model's broader relevance and scalability.
 
 
 
