@@ -224,3 +224,15 @@ The paper proposes a knowledge-enhanced GAN (Generative Adversarial Network) for
 
 ---
 
+### Development
+
+https://huggingface.co/blog
+
+https://github.com/trending
+
+---
+
+### Resources
+
+Youtube Videos, Medium Articles, 
+
