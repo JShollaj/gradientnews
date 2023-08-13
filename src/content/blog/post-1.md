@@ -6,7 +6,7 @@ date: 2023-08-14T05:00:00Z
 image: "https://dzslhiqiy3lnx.cloudfront.net/post-1/post-1-main.png"
 categories: ["Generative AI"]
 author: "Johnny Shollaj"
-tags: ["Generative AI","Social Media"]
+tags: ["Generative AI", "Machine Learning"]
 draft: false
 ---
 
