@@ -47,27 +47,55 @@ Machine unlearning presents both a significant opportunity and challenge for bus
 
 ---
 
+#### Neuro Science News: [AI Pinpoints Parkinson’s Subtypes Using Stem Cell Images](https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/)
 
-https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/
+**Summary**: Researchers at the Francis Crick Institute, in collaboration with UCL Queen Square Institute of Neurology and Faculty AI, have successfully used machine learning to predict four Parkinson’s disease subtypes using stem cell images. This achievement, with top accuracies reaching 95%, could lead to more personalized treatments and targeted drug development for Parkinson’s patients.
 
-https://www.crn.com/news/cloud/amazon-s-potential-arm-ipo-investment-5-things-to-know-from-ai-to-aws
+**Key Takeaway**: The utilization of AI to classify Parkinson's disease subtypes enables the potential for highly tailored treatments. By identifying specific subtypes through the examination of mitochondria and lysosomes within cells, this groundbreaking technique opens doors to personalized medicine and new drug discovery, significantly impacting the future of Parkinson’s disease care and research.
 
-https://www.bloomberg.com/news/newsletters/2023-08-11/midjourney-rules-can-easily-break-with-certain-prompts?in_source=embedded-checkout-banner#xj4y7vzkg
+***[Read Full Article](https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/)***
 
-https://indianexpress.com/article/technology/artificial-intelligence/what-is-googles-project-idx-8887316/
+*Clare Green | Francis Crick Institute* <br></br>
+*Publication Date: August 11, 2023*
 
-https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says
+---
 
-https://decrypt.co/151849/cube3-ai-secures-8-2m-to-launch-ai-powered-blockchain-security-app
+#### India Express: [What is Project IDX, Google’s new AI-integrated coding environment?](https://indianexpress.com/article/technology/artificial-intelligence/what-is-googles-project-idx-8887316/)
 
-https://www.deseret.com/2023/8/8/23824559/detroit-woman-suing-police-after-shoddy-ai-facial-recognition-leads-to-false-arrest-during-pregnancy
+**Summary**: Google has launched Project IDX, an innovative integrated development environment (IDE) aimed at transforming app development. By utilizing AI and cloud technologies, it provides a web-based workspace for multiplatform full-stack development, making app creation more accessible and efficient for developers.
 
-https://www.ft.com/content/6f022306-2f83-4da7-8066-51386e8fe63b
+**Key Takeaway**: Project IDX is set to impact the developer community substantially by providing a “super IDE” equipped with unique features like Codey, an AI coding bot, and support for popular frameworks and languages. Built on Visual Studio Code, it enables seamless creation of applications for various platforms and integrates smart features for code suggestions. Google's move aligns with the trend of leveraging AI in development and is indicative of potential collaboration and competition within the tech industry, positioning Project IDX as a significant step towards making app development more effortless and intuitive.
 
-https://finance.yahoo.com/news/investors-dropping-billions-startups-ai-160120618.html
+***[Read Full Article](https://indianexpress.com/article/technology/artificial-intelligence/what-is-googles-project-idx-8887316/)***
 
-https://www.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories
+*Bijin Jose | India Express* <br></br>
+*Publication Date: August 13, 2023*
 
+---
+
+#### Coin Telegraph: [Anthropic cracks open the black box to see how AI comes up with the stuff it says](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)
+
+**Summary**: Artificial intelligence research organization Anthropic has published significant research focusing on how large language models (LLMs) like Claude, ChatGPT, and Google's Bard generate their outputs. The study aims to understand if these models rely on "memorization" or whether there is a more complex relationship between training data, fine-tuning, and the eventual outputs.
+
+**Key Takeaway**: Anthropic's research delves into the complex workings of large language models (LLMs) to understand how they generate outputs, uncovering that these models don't rely solely on memorization of training data. By using a top-down approach with statistical analysis called "influence functions," the study sheds light on the multifaceted interaction within different AI layers. Although currently limited to pre-trained models, this research serves as a foundational step towards a more profound comprehension of neural network functions and may extend to more advanced models in the future.
+
+***[Read Full Article](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)***
+
+*Tristan Greene | Coin Telegraph* <br></br>
+*Publication Date: August 10, 2023*
+
+---
+
+#### Coin Telegraph: [Anthropic cracks open the black box to see how AI comes up with the stuff it says](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)
+
+**Summary**: Artificial intelligence research organization Anthropic has published significant research focusing on how large language models (LLMs) like Claude, ChatGPT, and Google's Bard generate their outputs. The study aims to understand if these models rely on "memorization" or whether there is a more complex relationship between training data, fine-tuning, and the eventual outputs.
+
+**Key Takeaway**: Anthropic's research delves into the complex workings of large language models (LLMs) to understand how they generate outputs, uncovering that these models don't rely solely on memorization of training data. By using a top-down approach with statistical analysis called "influence functions," the study sheds light on the multifaceted interaction within different AI layers. Although currently limited to pre-trained models, this research serves as a foundational step towards a more profound comprehension of neural network functions and may extend to more advanced models in the future.
+
+***[Read Full Article](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)***
+
+*Tristan Greene | Coin Telegraph* <br></br>
+*Publication Date: August 10, 2023*
 
 ---
 ### Research Blogs
