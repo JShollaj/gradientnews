@@ -10,10 +10,18 @@ tags: ["AI", "Machine Learning"]
 draft: false
 ---
 
-## Executive Summary
+The main highlights for this week (Aug 7, 2023 - Aug 14, 2023) include :
 
-The main AI developments this week have occured in the field include NVIDIA Super Chip Platform, New Algorithms, Research Papers,
-Interesting Repositories etc.
+- NVIDIA  most recent developments, including GH200 Grace Hopper Superchip Platform & AI Workbench
+
+- Google's Project IDX and AdaTape Foundation Model
+
+- Hugging Face Support for Swift & BentoML Integration
+
+- Langchain & Github Repositories supporting the "Interactive Simulacra of Human Behavior" paper
+
+Below we have a breakdown of the most recent news and developments
+in the field!
 
 ---
 
@@ -70,19 +78,6 @@ Machine unlearning presents both a significant opportunity and challenge for bus
 
 *Bijin Jose | India Express* <br></br>
 *Publication Date: August 13, 2023*
-
----
-
-#### Coin Telegraph: [Anthropic cracks open the black box to see how AI comes up with the stuff it says](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)
-
-**Summary**: Artificial intelligence research organization Anthropic has published significant research focusing on how large language models (LLMs) like Claude, ChatGPT, and Google's Bard generate their outputs. The study aims to understand if these models rely on "memorization" or whether there is a more complex relationship between training data, fine-tuning, and the eventual outputs.
-
-**Key Takeaway**: Anthropic's research delves into the complex workings of large language models (LLMs) to understand how they generate outputs, uncovering that these models don't rely solely on memorization of training data. By using a top-down approach with statistical analysis called "influence functions," the study sheds light on the multifaceted interaction within different AI layers. Although currently limited to pre-trained models, this research serves as a foundational step towards a more profound comprehension of neural network functions and may extend to more advanced models in the future.
-
-***[Read Full Article](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)***
-
-*Tristan Greene | Coin Telegraph* <br></br>
-*Publication Date: August 10, 2023*
 
 ---
 
@@ -192,7 +187,7 @@ From a business perspective, this precision ensures that translations resonate m
 
 #### Microsoft Azure: [Scale generative AI with new Azure AI infrastructure advancements and availability](https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/)
 
-Summary:
+**Summary**:
 Microsoft Azure has made critical advancements in AI infrastructure, positioning generative AI as a transformative force across multiple industries. They've announced the global expansion of Azure OpenAI Service, making GPT-4 and GPT-3.5-Turbo available in new regions. The ND H100 v5 Virtual Machine series, equipped with NVIDIA H100 GPUs, has now been released to cater to complex AI workloads. This expansion enhances Azure's offerings, enabling users to build next-generation, AI-powered applications and providing businesses with unparalleled generative AI capabilities.
 
 **Key Takeaway**:
@@ -210,8 +205,8 @@ The latest advancements in Azure's AI infrastructure underscore the commitment t
 
 #### [Evaluating the performance of large language models: ChatGPT and Google Bard in generating differential diagnoses in clinicopathological conferences of neurodegenerative disorders](https://onlinelibrary.wiley.com/doi/10.1111/bpa.13207)
 
-Summary:
 
+**Summary:**
 This study evaluated the use of large language models (LLMs), specifically ChatGPT-3.5, ChatGPT-4, and Google Bard, in predicting neuropathological diagnoses from clinical summaries for 25 cases of neurodegenerative disorders at the Mayo Clinic. The models' predictions were compared to the final clinical diagnoses made by physicians. The primary diagnoses were correct in 32% of cases for ChatGPT-3.5, 52% for ChatGPT-4, and 40% for Google Bard. Correct diagnoses were included among the multiple diagnoses in 76% of cases for ChatGPT-3.5, 84% for ChatGPT-4, and 76% for Google Bard
 
 **Key Takeaway**: The results highlight the potential of LLMs like ChatGPT in neuropathology, especially in facilitating comprehensive discussions in clinicopathological conferences.
@@ -226,8 +221,7 @@ This study evaluated the use of large language models (LLMs), specifically ChatG
 
 #### [Contextualized Knowledge Graph Embedding for Explainable Talent Training Course Recommendation](https://dl.acm.org/doi/pdf/10.1145/3597022)
 
-Summary:
-
+**Summary:**
 The paper introduces a novel approach called Contextualized Knowledge Graph Embedding (CKGE) for personalized employee training course recommendations. CKGE integrates both neighbor semantics and high-order connections to model individual learning motivations, using a unique KG-based Transformer (KGformer). Through relational attention, structural encoding, and path prediction, CKGE aims to provide precise and explainable recommendations. Extensive experiments on real-world datasets support the method's effectiveness and interpretability.
 
 **Key Takeaways**:
@@ -248,11 +242,9 @@ The paper introduces a novel approach called Contextualized Knowledge Graph Embe
 
 ---
 
-#### [Large-scale Urban Cellular Traffic Generation via
-[Knowledge-Enhanced GANs with Multi-Periodic Patterns](https://dl.acm.org/doi/pdf/10.1145/3580305.3599853)
+#### [Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns](https://dl.acm.org/doi/pdf/10.1145/3580305.3599853)
 
-Summary:
-
+**Summary:**
 The paper proposes a knowledge-enhanced GAN (Generative Adversarial Network) for generating large-scale urban cellular traffic, essential for 5G network planning. This novel model simulates multi-periodic patterns and long-term aperiodic dynamics, capturing urban environmental influences through a knowledge graph (KG). Extensive experiments demonstrate a substantial performance improvement of over 32.77% compared to state-of-the-art models, with urban knowledge contributing 4.71% enhancement. Generalization and robustness across different urban areas also affirm the model's utility.
 
 **Key Takeaways**:
@@ -324,20 +316,84 @@ BentoML offers a comprehensive solution for deploying Hugging Face models like D
 *Publication Date: August 9, 2023*
 
 
-#### GitHub: []()
-https://github.com/trending
+#### GitHub: [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
+
+
+**Summary:**
+The research paper titled "Generative Agents: Interactive Simulacra of Human Behavior" has been accompanied by a repository containing a core simulation module for generative agents that simulate human behaviors. The repository includes detailed instructions for setting up the simulation environment locally, running, replaying, and demoing a simulation, as well as customizing simulations through authoring agent history or creating new base simulations. There are specific directions for generating necessary files, installing requirements, starting servers, and utilizing different commands to interact with the simulations, providing a comprehensive guide for interacting with the generative agents in the game environment of Smallville.
+
+***[Refer to Repository](https://github.com/joonspk-research/generative_agents)***
+
+
+*Park, O'Brien, Cai, Morris, Liang, Bernstein* <br></br>
 
 ---
 
-### Community Discussion
+#### GitHub: [FaceChain](https://github.com/modelscope/facechain)
 
-https://huggingface.co/blog
 
-https://github.com/trending
+**Summary:**
+FaceChain is a deep-learning toolchain designed to generate a digital twin using a single portrait photo. It enables users to create personal photos in various settings and is powered by ModelScope, offering compatibility with various Python and GPU configurations. Recent updates include resolving a GPU memory issue, adding a depth parameter to git clone to shorten download time, and providing installation guides for Docker, notebooks, and a detailed description of the algorithm's training and inference stages.
+
+***[Refer to Repository](https://github.com/modelscope/facechain)***
 
 ---
 
-### Practical Tutorials
+#### GitHub: [FaceChain](https://github.com/modelscope/facechain)
 
-Youtube Videos, Medium Articles, 
+
+**Summary:**
+FaceChain is a deep-learning toolchain designed to generate a digital twin using a single portrait photo. It enables users to create personal photos in various settings and is powered by ModelScope, offering compatibility with various Python and GPU configurations. Recent updates include resolving a GPU memory issue, adding a depth parameter to git clone to shorten download time, and providing installation guides for Docker, notebooks, and a detailed description of the algorithm's training and inference stages.
+
+***[Refer to Repository](https://github.com/modelscope/facechain)***
+
+---
+
+#### Langchain: [GPT Researcher x LangChain](https://blog.langchain.dev/gpt-researcher-x-langchain/)
+
+
+**Summary:**
+LangChain has integrated with GPT Researcher, a leading open-source research assistant, to enhance web research using Large Language Models (LLMs). The integration provides easy access to various LLM models and facilitates seamless logging with LangSmith, a debugging/logging/monitoring platform. LangChain believes that this collaboration represents a significant opportunity for LLMs and sees it as part of the future, with a focus on complex but targeted applications.
+
+***[Refer to Article](https://blog.langchain.dev/gpt-researcher-x-langchain/)***
+
+---
+
+#### Langchain: [Villagers x LangSmith: Simulating multi-agent social networks with LangSmith](https://blog.langchain.dev/villagers-x-langsmith-simulating-multi-agent-social-networks/)
+
+
+**Summary:**
+The Villagers team collaborated with LangSmith to create a proof-of-concept for simulating multi-agent social networks, particularly mimicking real Twitter users' interactions. By utilizing LangSmith's capabilities, they were able to automate traces, quickly iterate on prompts, and efficiently debug for this complex scenario, including testing community responses to ad campaigns, political statements, and social commentary. The use of LangSmith significantly sped up development time and enhanced the confidence in the quality of the prompts in a system that required managing a large number of agents running in parallel.
+
+***[Refer to Article](https://blog.langchain.dev/villagers-x-langsmith-simulating-multi-agent-social-networks/)***
+
+---
+
+#### Langchain: [NeumAI x LangChain: Efficiently maintaining context in sync for AI applications](https://blog.langchain.dev/neum-x-langchain/)
+
+
+**Summary:**
+NeumAI and LangChain have collaborated to enhance AI applications by maintaining context synchronously and efficiently, especially for data that constantly changes like team documentation. They have introduced scheduling and orchestration to the ingestion pipeline, utilizing LangChain text splitters. Neum automatically synchronizes the source data with the vector store, ensuring up-to-date context, and uses efficient vectorizing technology to reduce costs, all of which can be applied to large-scale AI applications like chatbots to make them more accurate and responsive.
+
+***[Refer to Article](https://blog.langchain.dev/neum-x-langchain/)***
+
+
+---
+
+### Practical Tutorials and Resources
+
+[Building a RCI Chain for Agents with LangChain Expression Language](https://www.youtube.com/watch?v=QaKM5s0TnsY) - 
+***Sam Witteveen*** <br></br>
+
+[LangSmith From LangChain | Building production-grade LLM Apps](https://www.youtube.com/watch?v=M0fmlzbwcbo) - 
+***Data Science Basics*** <br></br>
+
+[Now in AI: Handpicked by Better Programming](https://anupamchugh.medium.com/list/now-in-ai-handpicked-by-better-programming-b788e9676cd5) - 
+***Various Medium Authors*** <br></br>
+
+[Introducing ModelFusion: Build AI apps with JavaScript and TypeScript](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia) - 
+***Lars Grammel*** <br></br>
+
+
+
 
