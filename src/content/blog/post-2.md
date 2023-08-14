@@ -249,7 +249,7 @@ The paper introduces a novel approach called Contextualized Knowledge Graph Embe
 ---
 
 #### [Large-scale Urban Cellular Traffic Generation via
-Knowledge-Enhanced GANs with Multi-Periodic Patterns](https://dl.acm.org/doi/pdf/10.1145/3580305.3599853)
+[Knowledge-Enhanced GANs with Multi-Periodic Patterns](https://dl.acm.org/doi/pdf/10.1145/3580305.3599853)
 
 Summary:
 
@@ -277,8 +277,54 @@ The paper proposes a knowledge-enhanced GAN (Generative Adversarial Network) for
 
 ### Development
 
-https://huggingface.co/blog
+#### Hugging Face: [Hugging Face Platform on the AWS Marketplace: Pay with your AWS Account](https://huggingface.co/blog/aws-marketplace)
 
+**Summary**:
+The Hugging Face Platform is now available on the AWS Marketplace, allowing AWS customers to pay for Hugging Face services directly through their AWS accounts. This integration simplifies the payment process for services like Inference Endpoints, Spaces Hardware Upgrades, and AutoTrain, facilitating easier access to popular machine learning models. The subscription process is outlined for users, ensuring seamless connectivity between AWS and Hugging Face accounts.
+
+**Key Takeaway**:
+This new integration between Hugging Face and AWS removes financial and administrative barriers, making it more convenient for businesses to adopt AI technologies. By centralizing billing through the AWS account, companies can efficiently manage payments for all Hugging Face services, fostering easier collaboration and utilization of machine learning models like Llama 2, StarCoder, or BERT. The identical pricing to public Hugging Face pricing, billed through AWS, streamlines the adoption process for developers and organizations.
+
+***[Read Full Article](https://huggingface.co/blog/aws-marketplace)***
+
+
+*Simon Brandeis, Philipp Schmid, Jeff Boudier* <br></br>
+*Publication Date: August 10, 2023*
+
+---
+
+#### Hugging Face: [Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](https://huggingface.co/blog/swift-coreml-llm)
+
+**Summary**:
+A slew of updates and tools were released today to support text generation in Swift, including the new swift-transformers package and the swift-chat app. Tools for Core ML conversion, like exporters and transformers-to-coreml, have been updated and some converted models like Llama 2 7B or Falcon 7B are ready for use. The details cover multiple aspects of conversion to Core ML, optimization techniques, tokenization, and more, including specific coding instructions.
+
+**Key Takeaway**:
+The release is a comprehensive step forward for Swift developers working with text generation and Core ML models, making the conversion and optimization process more streamlined and flexible. With support for different tokenization methods, abstraction of complex processes, and focus on optimization techniques, these updates enhance efficiency and provide a foundation for developers to work with different models and generation algorithms, offering an engaging platform for ongoing improvements and innovations.
+
+***[Read Full Article](https://huggingface.co/blog/swift-coreml-llm)***
+
+
+*Pedro Cuenca* <br></br>
+*Publication Date: August 8, 2023*
+
+---
+
+#### Hugging Face: [Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml)
+
+**Summary:**
+The article details how to deploy Hugging Face models, such as the DeepFloyd IF text-to-image model, using BentoML, an open-source platform for machine learning model serving and deployment. It walks through defining, saving, and deploying the model, and outlines how to use DeepFloyd IF in BentoML. Detailed instructions for preparing the environment, scaling runners, and building a deployable Bento are provided, including specific code and command examples.
+
+**Key Takeaway:**
+BentoML offers a comprehensive solution for deploying Hugging Face models like DeepFloyd IF in a production-ready manner. The article guides users step-by-step through the process, making it accessible even for those new to the platform. The capability of BentoML to handle various ML frameworks, along with its ease of use and integration with tools like Docker and Kubernetes, makes it a powerful tool for real-world deployment and scaling of AI applications.
+
+***[Read Full Article](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml)***
+
+
+*Sherlock Xu , Zhao Shenyang* <br></br>
+*Publication Date: August 9, 2023*
+
+
+#### GitHub: []()
 https://github.com/trending
 
 ---
