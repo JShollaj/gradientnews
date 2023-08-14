@@ -283,7 +283,15 @@ https://github.com/trending
 
 ---
 
-### Resources
+### Community Discussion
+
+https://huggingface.co/blog
+
+https://github.com/trending
+
+---
+
+### Practical Tutorials
 
 Youtube Videos, Medium Articles, 
 
