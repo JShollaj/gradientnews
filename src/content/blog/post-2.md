@@ -12,9 +12,12 @@ draft: false
 
 ### General News
 
-<img src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1334264837.jpg?w=1390&crop=1" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<a href="https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/">
+  <img src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1334264837.jpg?w=1390&crop=1" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+</a>
 
-#### Tech Crunch: [What is a liquid neural network, really?](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)
+
+#### What is a liquid neural network, really?
 
 
 **Main Highlight**: Liquid neural networks, a concept developed by Ramin Hasani and researchers at MIT, offer a flexible and adaptable approach to machine learning. These networks can scale down to have fewer but richer nodes, making them more efficient and less computationally expensive. 
@@ -28,9 +31,11 @@ Applications of these systems in robotics show potential for real-world use, inc
 
 ---
 
-<img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202308/Hands-e1689168802555.jpg?itok=wqJrVXg9" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<a href="https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818">
+  <img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202308/Hands-e1689168802555.jpg?itok=wqJrVXg9" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+</a>
 
-#### MIT News: [Artificial intelligence for augmentation and productivity](https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818)
+#### Artificial intelligence for augmentation and productivity
 
 **Main Highlight**: 
 The MIT Schwarzman College of Computing has awarded seed grants to seven interdisciplinary projects focusing on AI-augmented management. Funded by Andrew W. Houston and Dropbox Inc., these projects aim to leverage artificial intelligence and human-computer interaction to enhance modern workspaces, achieving better management and higher productivity. 
@@ -43,10 +48,12 @@ The selected projects span a wide range of applications, including memory prosth
 *Publication Date: August 18, 2023*
 
 ---
+
+<a href="https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/">
 <img src="https://blogs.nvidia.com/wp-content/uploads/2023/08/y61-1280x720.png.webp" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+</a>
 
-
-#### NVIDIA: [Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)
+#### Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support
 
 **Main Highlight**: Reallusion has updated its iClone Omniverse Connector, enhancing character animation workflows by offering real-time previews, a bidirectional workflow with Omniverse, and improved support for OpenUSD. 
 
@@ -59,9 +66,13 @@ The update facilitates seamless collaboration and expands creative possibilities
 
 ---
 
+<a href="https://openai.com/blog/openai-acquires-global-illumination">
 <img src="https://i.ytimg.com/vi/vPHEtewFm3M/maxresdefault.jpg" width="500" height="500" alt="Open AI: Generative AI Company"></img>
+</a>
 
-#### OpenAI Blog: [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
+
+
+#### OpenAI acquires Global Illumination
 
 **Main Highlight**: OpenAI has acquired the team at Global Illumination, a company known for leveraging AI in creative tools and digital experiences. The team, who previously contributed to major companies like Instagram, Facebook, YouTube, Google, Pixar, and Riot Games, has joined OpenAI to work on core products including ChatGPT.
 
@@ -71,9 +82,12 @@ The update facilitates seamless collaboration and expands creative possibilities
 *Publication Date: August 16, 2023*
 
 ---
-<img src="https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200" width="500" height="500" alt="Open AI: Content Moderator"></img>
 
-#### OpenAI Blog: [Using GPT-4 for content moderation](https://openai.com/blog/using-gpt-4-for-content-moderation)
+<a href="https://openai.com/blog/using-gpt-4-for-content-moderation">
+<img src="https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+#### Using GPT-4 for content moderation
 
 
 **Main Highlight**: GPT-4 is being used for content policy development and moderation, significantly speeding up the iteration on policy changes from months to hours and allowing more consistent labeling.
