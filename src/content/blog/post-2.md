@@ -102,93 +102,80 @@ By understanding and interpreting rules and nuances in content policies, GPT-4 i
 ---
 ### Research Blogs
 
-#### MIT News: [AI model can help determine where a patient’s cancer arose](https://news.mit.edu/2023/ai-model-can-help-determine-where-patients-cancer-arose-0807)
+
+<a href="https://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyNe-vfM669M0AsGp7RYUoWVVyt5-AQrDA34CTde4zp5CgFzaqQqiNmnxcNz3AbvKpoBXoBywipTwYlkZkjzjIilpgLPaJvSpmMLaApLNmkGqH1GHgvzmHZ2w2S5Ku-hCubbW62wZIwuhKTn2R9S5OlrBkyF2ylkU8APoVAqaagGiRc5l3u05g6qag9mU/s16000/image4.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+#### Autonomous visual information seeking with large language models
 
 
-Researchers at MIT and Dana-Farber Cancer Institute have developed a machine-learning model called OncoNPC that analyzes the genetic sequence of 400 genes to predict the origin of a tumor in the body. This approach can accurately classify at least 40% of previously unidentifiable tumors, enabling a 2.2-fold increase in patients eligible for targeted treatment. The model has the potential to guide doctors towards personalized treatments, and the team plans to expand the model to include other data types for a more comprehensive prediction.
+**Main Highlight**: Google Research has introduced "AVIS: Autonomous Visual Information Seeking with Large Language Models", a novel method that elevates the performance of large language models (LLMs) on visual information seeking tasks. 
 
-**Key Takeaway**:
-The OncoNPC model can significantly improve treatment options for patients with cancers of unknown primary origin, enabling more precise and effective therapies. By guiding treatment decisions, it may enhance survival rates and quality of life for cancer patients. The model's development marks a promising step towards integrating AI in medical diagnostics and patient care, setting a precedent for future advancements in personalized medicine.
+Utilizing three types of tools - computer vision tools, web search tools, and image search tools - AVIS uses an LLM-powered planner and reasoner to extract and analyze information from various sources.
 
-***[Read Full Article](https://news.mit.edu/2023/ai-model-can-help-determine-where-patients-cancer-arose-0807)***
+The method achieved state-of-the-art results on visual information seeking datasets, showing a significant improvement in accuracy and efficiency by incorporating human decision-making data and using a dynamic, structured approach to decision-making.
 
-*Anne Trafton | MIT News* <br></br>
-*Publication Date: August 7, 2023*
+***[Read Full Article](https://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html)***
 
----
-
-#### NVIDIA: [SIGGRAPH Special Address: NVIDIA CEO Brings Generative AI to LA Show](https://blogs.nvidia.com/blog/2023/08/08/siggraph-2023-special-address/)
-
-The key highlights from the latest NVIDIA conference are the following:
-
-- GH200 Grace Hopper Superchip Platform: Superchip platform aiming to help various data centers accelerate AI computations and expand memory and bandwidth, for faster more efficient processing.
-
-- NVIDIA AI Workbench: Introducing simplified AI model tuning, it democratizes generative AI development, enabling businesses to quickly adapt and scale AI applications.
-
-- NVIDIA Omniverse Upgrades: Enhancing virtual world creation with generative AI, it encourages collaboration and enables seamless interaction with 3D pipelines. The integration of OpenUSD adds universal compatibility across tools.
-
-- New Desktop Systems and Servers: These will fuel AI, graphics, real-time rendering, and industrial digitalization, paving the way for future content creation and processing demands.
-
-- Collaboration with Industry Leaders: Partnerships, such as with Hugging Face, will foster generative AI development and accessibility.
-
-- Research Innovations: Demonstrations of AI-powered materials for 3D scenes and advanced video conferencing capabilities showcase a future where AI offers fine creative control and immersive communication experiences.
-
-**Key Takeaway**:
-NVIDIA recent development shows that AI and graphics are inseparable, with a potential to revolutionize diverse sectors like entertainment, healthcare, manufacturing, and communication.
-
-***[Read Full Article](https://blogs.nvidia.com/blog/2023/08/08/siggraph-2023-special-address/)***
-
-*Brian Caulfield | NVIDIA* <br></br>
-*Publication Date: August 8, 2023*
+*Ziniu Hu, Alireza Fathi, | Google* <br></br>
+*Publication Date: August 18, 2023*
 
 ---
 
-#### Google: [AdaTape: Foundation model with adaptive computation and dynamic read-and-write](https://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html)
+<a href="https://machinelearning.apple.com/research/consistent-collaborative-filtering-updates">
+<img src="https://www.mdpi.com/applsci/applsci-09-01928/article_deploy/html/images/applsci-09-01928-g001.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
-Research Summary:
+#### Consistent Collaborative Filtering via Tensor Decomposition
 
-Adaptive computation is about a machine learning system adjusting its behavior based on the complexity of the input, rather than using a fixed function like conventional neural networks. AdaTape is a new model that takes this to the next level by using dynamic sets of tokens to create elastic input sequences. It offers better performance in various tasks, and more efficiency compared to other adaptive models. Its innovative approaches, such as an adaptive tape reading mechanism and a unique "tape bank," make it a promising breakthrough in the field.
+**Main Highlight**: A new model called Sliced Anti-symmetric Decomposition (SAD) has been developed by Apple, for collaborative filtering in recommendation systems, based on implicit feedback. 
 
-Potential Impact:
+Unlike traditional methods that estimate latent vectors for users and items, SAD introduces an additional latent vector for each item using a novel three-way tensor view. This innovation extends user-item preferences, suggesting that users may have nonlinear mental models when evaluating items. 
 
-- Enhanced Efficiency: By tailoring computation based on input complexity, AdaTape can allocate resources more judiciously, improving the performance-to-cost ratio. This could result in significant savings in processing time and computational resources.
+The model has demonstrated efficiency in both simulated and real-world datasets, outperforming seven state-of-the-art collaborative filtering models in consistency and accuracy of personalized preferences.
 
-- Increased Accuracy: AdaTape offers the ability to dynamically adjust its approach to processing data. This adaptability allows it to outperform conventional and existing adaptive models in specific challenging tasks, such as image classification and algorithmic tasks.
+***[Read Full Article](https://machinelearning.apple.com/research/consistent-collaborative-filtering-updates)***
 
-- New Solutions to Old Problems: AdaTape's inductive bias makes it capable of solving problems that were previously out of reach for other models. For example, it successfully tackled the parity task, a problem that standard transformers could not solve.
-
-- Wider Application Scope: With its flexibility and efficiency, AdaTape could be implemented across a range of applications, from complex data analysis to real-time adaptive systems, making it a versatile tool for different industry needs.
-
-- Alignment with Hardware: Unlike some adaptive models, AdaTape's architecture is well-suited to current hardware accelerators like TPUs. This compatibility ensures that businesses can harness its full potential without major hardware investments.
-
-**Key Takeaway**:
-As industries move towards more real-time and complex decision-making, the need for adaptive, efficient, and intelligent machine learning models grows. AdaTape answers this call by providing a mechanism that is not only more adaptable to varying complexities but also optimizes the tradeoff between quality and cost. By leveraging AdaTape, businesses can achieve higher accuracy, greater efficiency, and more innovative solutions, aligning with the ever-growing demands of the digital age. This makes AdaTape a valuable asset in maintaining a competitive edge in today's rapidly evolving technological landscape.
-
-***[Read Full Article](https://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html)***
-
-*Fuzhao Xue, Mostafa Dehghani | Google* <br></br>
-*Publication Date: August 8, 2023*
+*Shiwen Zhao, Charles Crissman, Guillermo R Sapiro | Apple* <br></br>
+*Publication Date: August 16, 2023*
 
 ---
 
-#### AWS: [Amazon Translate enhances its custom terminology to improve translation accuracy and fluency](https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/)
+<a href="https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/">
+<img src="https://images.contentstack.io/v3/assets/blt71da4c740e00faaa/bltccee8185af86036b/62693f46f8819866142d8373/gpus.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
-Amazon Translate's neural machine translation service has introduced enhancements to its custom terminology, focusing on domain-specific and language-specific customizable translations. These updates allow for context-sensitive match and replace, preserving sentence constructs, and improving translation quality and fluency.
+#### Which GPU(s) to Get for Deep Learning
 
-The new enhancements cater to government and commercial organizations, providing flexibility in translating unique content such as brand names, model names, and character names. The system recognizes context, gender, plurality, verb tense, and noun forms to create more nuanced translations.
+**Main Highlight**: Tim Dettmers provides comprehensive advice and insights on selecting the best GPU for deep learning, emphasizing the importance of GPU RAM, cores, tensor cores, and caches. 
 
-Examples include translating "tutor" with gender specificity in French, inflecting plurality for the word "sheep," or using the correct verb tense for "walking."
+The blog post is structured to guide readers through the details of GPU functionality, including comparisons between CPU and GPU, the unique features of NVIDIA's RTX 40 Ampere series, and practical recommendations for various scenarios.
 
-The update requires no changes for existing customers, and detailed instructions for creating and using custom terminology files are provided.
+The guide also includes a Q&A section to tackle common misconceptions and address specific questions like cloud vs desktop considerations, cooling strategies, and the comparison between AMD and NVIDIA.
 
-**Key Takeaway**
-From a business perspective, this precision ensures that translations resonate more accurately with specific audiences, enhancing global communication and reducing the risk of misunderstandings. This can lead to more effective marketing, international relations, and customer service, ultimately having a positive impact on the bottom line.
+***[Read Full Article](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)***
+
+*Tim Dettmers* <br></br>
+*Updated Publication Date: August 8, 2023*
+
+---
+<a href="https://www.nature.com/articles/s41586-023-06221-2.epdf?sharing_token=VNBCL-B5z7x9yroz7VHXjtRgN0jAjWel9jnR3ZoTv0NZ6DLC7sCSFQ-fnesQT80MG5tIwXOiTkbck2M8kGB2OXNe_nMse2r__TenJJwQRyiWRVae4mZzA-YquCQg9JAzwBK1UiBZQkjUqHME4HBPT-c4BOt-he7EpCkSUxM_2xo%3D">
+<img src="https://www.gratasoftware.com/wp-content/uploads/2019/07/ai-analysis.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+#### Scientific discovery in the age of artificial intelligence
 
 
-***[Read Full Article](https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/)***
+**Main Highlight**: The integration of AI into scientific discovery has led to breakthroughs such as self-supervised learning and geometric deep learning, augmenting traditional research methods. 
 
-*Sathya Balakrishnan, Sid Padgaonkar | AWS* <br></br>
-*Publication Date: August 11, 2023*
+These advancements enable the creation of new designs and help scientists throughout the research process, although challenges remain in data quality and the understanding of AI's capabilities and limitations. 
+
+
+***[Read Full Paper](https://www.nature.com/articles/s41586-023-06221-2.epdf?sharing_token=VNBCL-B5z7x9yroz7VHXjtRgN0jAjWel9jnR3ZoTv0NZ6DLC7sCSFQ-fnesQT80MG5tIwXOiTkbck2M8kGB2OXNe_nMse2r__TenJJwQRyiWRVae4mZzA-YquCQg9JAzwBK1UiBZQkjUqHME4HBPT-c4BOt-he7EpCkSUxM_2xo%3D)***
+
+*Wang, Fu, Du, Huang, Deac, Gao, Liu, Bengio, et.al* <br></br>
+*Publication Date: August 2, 2023*
 
 ---
 
