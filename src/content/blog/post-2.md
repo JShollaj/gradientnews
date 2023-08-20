@@ -43,8 +43,7 @@ The selected projects span a wide range of applications, including memory prosth
 *Publication Date: August 18, 2023*
 
 ---
-
-<img src="https://blogs.nvidia.com/wp-content/uploads/2023/08/y61-1280x720.png.webp"></img>
+<img src="https://blogs.nvidia.com/wp-content/uploads/2023/08/y61-1280x720.png.webp" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 
 
 #### NVIDIA: [Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)
