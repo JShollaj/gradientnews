@@ -183,60 +183,46 @@ These advancements enable the creation of new designs and help scientists throug
 
 ---
 
-#### Microsoft Azure: [Scale generative AI with new Azure AI infrastructure advancements and availability](https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/)
-
-**Summary**:
-Microsoft Azure has made critical advancements in AI infrastructure, positioning generative AI as a transformative force across multiple industries. They've announced the global expansion of Azure OpenAI Service, making GPT-4 and GPT-3.5-Turbo available in new regions. The ND H100 v5 Virtual Machine series, equipped with NVIDIA H100 GPUs, has now been released to cater to complex AI workloads. This expansion enhances Azure's offerings, enabling users to build next-generation, AI-powered applications and providing businesses with unparalleled generative AI capabilities.
-
-**Key Takeaway**:
-The latest advancements in Azure's AI infrastructure underscore the commitment to scaling AI capabilities worldwide, allowing for faster and more effective deployment of AI solutions. For businesses, this means increased efficiency, innovation, and adaptability in areas ranging from manufacturing to financial services. These enhancements align with the growing global demand for robust, scalable AI, setting the stage for a new era of innovation that can shape various industries. Leveraging Azure’s expanded infrastructure can be a strategic move for businesses aiming to gain a competitive edge through AI-driven solutions.
-
-***[Read Full Article](https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/)***
-
-
-*Nidhi Chappell,  Eric Boyd | Azure* <br></br>
-*Publication Date: August 7, 2023*
-
-----
-
 ### Research Papers
 
-#### [Evaluating the performance of large language models: ChatGPT and Google Bard in generating differential diagnoses in clinicopathological conferences of neurodegenerative disorders](https://onlinelibrary.wiley.com/doi/10.1111/bpa.13207)
+
+#### Scaling Laws for Generative Mixed-Modal Language Models
+
+<a href="https://arxiv.org/pdf/2301.03728.pdf">
+<img src="https://media.arxiv-vanity.com/render-output/7160109/x17.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
 
-**Summary:**
-This study evaluated the use of large language models (LLMs), specifically ChatGPT-3.5, ChatGPT-4, and Google Bard, in predicting neuropathological diagnoses from clinical summaries for 25 cases of neurodegenerative disorders at the Mayo Clinic. The models' predictions were compared to the final clinical diagnoses made by physicians. The primary diagnoses were correct in 32% of cases for ChatGPT-3.5, 52% for ChatGPT-4, and 40% for Google Bard. Correct diagnoses were included among the multiple diagnoses in 76% of cases for ChatGPT-3.5, 84% for ChatGPT-4, and 76% for Google Bard
 
-**Key Takeaway**: The results highlight the potential of LLMs like ChatGPT in neuropathology, especially in facilitating comprehensive discussions in clinicopathological conferences.
+**Main Highlight**: The study was conducted to explore the scaling properties of mixed-modal generative language models, examining the interaction between different modalities like text, speech, images, and code.
 
-***[Read Full Paper](https://onlinelibrary.wiley.com/doi/10.1111/bpa.13207)***
+The research, including over 250 experiments with seven modalities and varying model sizes, has identified new mixed-modal scaling laws that capture both individual modalities and their interactions, predicting competition and synergy.
+
+The findings provide insights into the design and training of mixed-modal models, including guidelines for hyperparameter selection, and will likely advance the development of unified models handling multiple modalities simultaneously.
 
 
-*Shunsuke Koga, Nicholas B. Martin, Dennis W. Dickson* <br></br>
-*Publication Date: August 8, 2023*
+***[Read Full Paper](https://arxiv.org/pdf/2301.03728.pdf)***
+
+*Aghajanyan, Yu, Conneau, Hsu* <br></br>
+*Publication Date: 10 Jan , 2023*
 
 ---
 
-#### [Contextualized Knowledge Graph Embedding for Explainable Talent Training Course Recommendation](https://dl.acm.org/doi/pdf/10.1145/3597022)
+#### Sigmoid Loss for Language Image Pre-Training
 
-**Summary:**
-The paper introduces a novel approach called Contextualized Knowledge Graph Embedding (CKGE) for personalized employee training course recommendations. CKGE integrates both neighbor semantics and high-order connections to model individual learning motivations, using a unique KG-based Transformer (KGformer). Through relational attention, structural encoding, and path prediction, CKGE aims to provide precise and explainable recommendations. Extensive experiments on real-world datasets support the method's effectiveness and interpretability.
-
-**Key Takeaways**:
-
-- Innovative Approach: CKGE offers a fresh perspective on course recommendations by considering complex learning motivations.
-
-- Explainability: The integration of knowledge graphs and special attention mechanisms ensures transparent, meaningful recommendations.
-
-- Precision: The method promises accurate predictions for course preferences tailored to individual needs.
-
-- Relevance: CKGE aligns with the trend of leveraging data-driven paradigms in talent management, having potential high impact in personalized learning and development within enterprises.
-
-***[Read Full Paper](https://dl.acm.org/doi/pdf/10.1145/3597022)***
+<a href="https://arxiv.org/pdf/2303.15343.pdf">
+<img src="https://www.researchgate.net/publication/369556647/figure/fig1/AS:11431281130904544@1679973129344/SigLiT-ImageNet-0-shot-transfer-results-with-different-training-durations-Large-batch_Q320.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
 
-*Yang, Zhang, Song, Dong, Zhu, Li* <br></br>
-*Publication Date: August 8, 2023*
+
+**Main Highlight**:This new sigmoid loss method performs better, particularly at smaller batch sizes, and allows for further scaling up of the batch size, without requiring additional resources. With this method, the researchers were able to achieve up to 84.5% ImageNet zero-shot accuracy within two days, making it a promising advancement for image-text pre-training.
+
+
+***[Read Full Paper](https://arxiv.org/pdf/2303.15343.pdf)***
+
+*Zhai, Mustafa, Kolesnikov, Beyer* <br></br>
+*Publication Date: 4 May , 2023*
 
 ---
 
