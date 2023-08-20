@@ -55,21 +55,21 @@ The update facilitates seamless collaboration and expands creative possibilities
 
 ***[Read Full Article](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)***
 
-*Clare Green | Francis Crick Institute* <br></br>
-*Publication Date: August 11, 2023*
+*DANE JOHNSTON | NVIDIA* <br></br>
+*Publication Date: August 16, 2023*
 
 ---
 
-#### India Express: [What is Project IDX, Google’s new AI-integrated coding environment?](https://indianexpress.com/article/technology/artificial-intelligence/what-is-googles-project-idx-8887316/)
+<img src="https://i.ytimg.com/vi/vPHEtewFm3M/maxresdefault.jpg" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 
-**Summary**: Google has launched Project IDX, an innovative integrated development environment (IDE) aimed at transforming app development. By utilizing AI and cloud technologies, it provides a web-based workspace for multiplatform full-stack development, making app creation more accessible and efficient for developers.
+#### OpenAI Blog: [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 
-**Key Takeaway**: Project IDX is set to impact the developer community substantially by providing a “super IDE” equipped with unique features like Codey, an AI coding bot, and support for popular frameworks and languages. Built on Visual Studio Code, it enables seamless creation of applications for various platforms and integrates smart features for code suggestions. Google's move aligns with the trend of leveraging AI in development and is indicative of potential collaboration and competition within the tech industry, positioning Project IDX as a significant step towards making app development more effortless and intuitive.
+**Main Highlight**: OpenAI has acquired the team at Global Illumination, a company known for leveraging AI in creative tools and digital experiences. The team, who previously contributed to major companies like Instagram, Facebook, YouTube, Google, Pixar, and Riot Games, has joined OpenAI to work on core products including ChatGPT.
 
-***[Read Full Article](https://indianexpress.com/article/technology/artificial-intelligence/what-is-googles-project-idx-8887316/)***
+***[Read Full Article](https://openai.com/blog/openai-acquires-global-illumination)***
 
-*Bijin Jose | India Express* <br></br>
-*Publication Date: August 13, 2023*
+*OpenAI | Various Authors* <br></br>
+*Publication Date: August 16, 2023*
 
 ---
 
