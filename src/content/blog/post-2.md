@@ -360,21 +360,55 @@ The CoDeF system has been designed to lift image algorithms for video processing
 
 ---
 
-
 ### Practical Tutorials and Resources
 
-[Building a RCI Chain for Agents with LangChain Expression Language](https://www.youtube.com/watch?v=QaKM5s0TnsY) - 
-***Sam Witteveen*** <br></br>
+<br></br>
 
-[LangSmith From LangChain | Building production-grade LLM Apps](https://www.youtube.com/watch?v=M0fmlzbwcbo) - 
-***Data Science Basics*** <br></br>
+[CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/lectures/) 
 
-[Now in AI: Handpicked by Better Programming](https://anupamchugh.medium.com/list/now-in-ai-handpicked-by-better-programming-b788e9676cd5) - 
-***Various Medium Authors*** <br></br>
+Stanford Course on LLMs - Notes are open-sourced in the given links
 
-[Introducing ModelFusion: Build AI apps with JavaScript and TypeScript](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia) - 
-***Lars Grammel*** <br></br>
+***Liang, Hashimoto, Re, Bommasani, Xie | Stanford*** <br></br>
 
+---
+
+[Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
+
+Databricks course available on EDX, starting from ground up to the main elements of Generative AI. Complementary for the LLM specialty certification.
+
+***Zaharia, Raymond, Eng | Databricks*** <br></br>
+
+---
+
+[LangChain: Various Tutorials](https://blog.langchain.dev/)
+
+Various tutorials which integrate LangChain with specific tools or frameworks, such as Predibase, Zep or Qdrant
+
+***LangChain et. al*** <br></br>
+
+---
+
+[DeepLearning AI: Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
+
+Free tutorial teaching concepts like dense retrieval, which elevates the relevance of retrieved information, leading to improved search results beyond traditional keyword search, and reranking, which injects the intelligence of LLMs into asearch system, making it faster and more effective.  
+
+***Cohere x DeepLearning*** <br></br>
+
+---
+
+[DeepLearning AI: Evaluating and Debugging Generative AI](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
+
+Free tutorial teaching concepts like monitoring and tracing of LLMs over time in complex interactions and properly debugging by use case.
+
+***W&B x DeepLearning*** <br></br>
+
+---
+
+[DeepLearning AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+
+Free tutorial teaching how to create apps which integrate easily Generative AI (Hugging Face Integrations).
+
+***Hugging Face x DeepLearning*** <br></br>
 
 
 
