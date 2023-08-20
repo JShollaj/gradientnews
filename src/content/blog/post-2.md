@@ -1,66 +1,59 @@
 ---
-title: "AI Developments: Report #1"
+title: "AI Developments: Report #2"
 meta_title: "Latest Developments"
 description: "Latest developments in the field of AI (Aug 7, 2023 - Aug 14, 2023)"
-date: 2023-08-14T05:00:00Z
-image: "https://dzslhiqiy3lnx.cloudfront.net/post-1/post-1-main-banner.png"
+date: 2023-08-20T05:00:00Z
+image: "https://dzslhiqiy3lnx.cloudfront.net/post-2/post-2-main.png"
 categories: ["Technology", "Data"]
 author: "Johnny Shollaj"
 tags: ["AI", "Machine Learning"]
 draft: false
 ---
 
-The main highlights for (Aug 7, 2023 - Aug 14, 2023) include :
-
-- NVIDIA recent developments, including GH200 Grace Hopper Superchip Platform & AI Workbench
-
-- Google's Project IDX and AdaTape Foundation Model
-
-- Hugging Face Support for Swift & BentoML Integration
-
-- Langchain & Github Repositories supporting the "Interactive Simulacra of Human Behavior" paper
-
-Below we have a breakdown of the filtered articles, tutorials, papers and guides!
-
----
-
 ### General News
 
-#### The Guardian: [A Tsunami of AI Misinformation Will Shape Next Year’s Knife-Edge Elections](https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections)
+<img src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1334264837.jpg?w=1390&crop=1" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 
-**Summary**: "The upcoming 2024 elections in various democratic countries, especially the US, are facing the threat of AI-generated misinformation that can significantly impact the results. With the advancements in AI tools like ChatGPT and others, creating and spreading false information has become easier and more convincing. The consequences of a manipulated election could be significant, potentially leading to a drastic change in US governance. Despite awareness of this threat, practical solutions seem lacking, as academia and tech companies grapple with the challenge."
+#### Tech Crunch: [What is a liquid neural network, really?](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)
 
-**Key Takeaway**: "AI-enabled misinformation poses a serious risk to the integrity of global elections, particularly in 2024, with the potential to tip the balance in crucial votes. The need for robust mechanisms to counteract this threat is urgent, but current efforts may be hampered by technological interests and lack of decisive action from platform owners."
 
-***[Read Full Article](https://www.theguardian.com/commentisfree/2023/aug/12/a-tsunami-of-ai-misinformation-will-shape-next-years-knife-edge-elections)***
+**Main Highlight**: Liquid neural networks, a concept developed by Ramin Hasani and researchers at MIT, offer a flexible and adaptable approach to machine learning. These networks can scale down to have fewer but richer nodes, making them more efficient and less computationally expensive. 
 
-*John Naughton | The Guardian* <br></br>
-*Publication Date: August 12, 2023*
+Applications of these systems in robotics show potential for real-world use, including using Raspberry Pi for complex reasoning, reducing the number of neurons for faster solutions, and creating more transparent decision-making processes. These networks require time series data and could help in safety-critical systems by avoiding unnecessary mistakes.
 
----
+***[Read Full Article](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)***
 
-#### Venture Beat: [Machine unlearning: The critical art of teaching AI to forget](https://venturebeat.com/ai/machine-unlearning-the-critical-art-of-teaching-ai-to-forget/)
-
-**Summary**:
-Machine unlearning is an emerging field in AI that focuses on teaching algorithms to "forget" or erase specific datasets. This process is crucial when algorithms are trained on outdated, incorrect, or private data. However, current methods for machine unlearning are costly and time-consuming, and a complete solution has not yet been found. Recent research and competition, such as Google's machine unlearning challenge, are making progress towards effective unlearning methods. Businesses are urged to implement strategies to align with legal and ethical standards and to keep pace with machine unlearning as a part of responsible AI practice.
-
-**Key Takeaway**:
-Machine unlearning presents both a significant opportunity and challenge for businesses, particularly concerning privacy, security, and ethics. The growing demand for this capability has sparked research and investment, but solutions are still in development. A comprehensive understanding and implementation of machine unlearning practices will be essential for businesses employing large datasets and AI models, impacting how organizations manage data handling, compliance, and adapt to the dynamic nature of AI and ML.
-
-***[Read Full Article](https://venturebeat.com/ai/machine-unlearning-the-critical-art-of-teaching-ai-to-forget/)***
-
-*Matthew Duffin | Venture Beat* <br></br>
-*Publication Date: August 12, 2023*
+*Brian Heater | Tech Crunch* <br></br>
+*Publication Date: August 18, 2023*
 
 ---
 
-#### Neuro Science News: [AI Pinpoints Parkinson’s Subtypes Using Stem Cell Images](https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/)
+<img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202308/Hands-e1689168802555.jpg?itok=wqJrVXg9" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 
-**Summary**: Researchers at the Francis Crick Institute, in collaboration with UCL Queen Square Institute of Neurology and Faculty AI, have successfully used machine learning to predict four Parkinson’s disease subtypes using stem cell images. This achievement, with top accuracies reaching 95%, could lead to more personalized treatments and targeted drug development for Parkinson’s patients.
+#### MIT News: [Artificial intelligence for augmentation and productivity](https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818)
 
-**Key Takeaway**: The utilization of AI to classify Parkinson's disease subtypes enables the potential for highly tailored treatments. By identifying specific subtypes through the examination of mitochondria and lysosomes within cells, this groundbreaking technique opens doors to personalized medicine and new drug discovery, significantly impacting the future of Parkinson’s disease care and research.
+**Main Highlight**: 
+The MIT Schwarzman College of Computing has awarded seed grants to seven interdisciplinary projects focusing on AI-augmented management. Funded by Andrew W. Houston and Dropbox Inc., these projects aim to leverage artificial intelligence and human-computer interaction to enhance modern workspaces, achieving better management and higher productivity. 
 
-***[Read Full Article](https://neurosciencenews.com/parkinsons-ai-stem-cells-23783/)***
+The selected projects span a wide range of applications, including memory prosthetics, social scenario simulation, healthcare improvement, and democratizing programming, demonstrating the potential breadth of impact on various sectors of society and the economy.
+
+***[Read Full Article](https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818)***
+
+*Schwarzman College of Computing | MIT* <br></br>
+*Publication Date: August 18, 2023*
+
+---
+
+<iframe width="500" height="300" src="https://www.youtube.com/embed/EEPOkUV7J2c" title="Play:Youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+#### NVIDIA: [Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)
+
+**Main Highlight**: Reallusion has updated its iClone Omniverse Connector, enhancing character animation workflows by offering real-time previews, a bidirectional workflow with Omniverse, and improved support for OpenUSD. 
+
+The update facilitates seamless collaboration and expands creative possibilities by including real-time synchronization of projects and enhanced import functionality. These features are designed to make work between iClone and Omniverse quicker and more efficient, and come along with additional bug fixes and improvements.
+
+***[Read Full Article](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)***
 
 *Clare Green | Francis Crick Institute* <br></br>
 *Publication Date: August 11, 2023*
