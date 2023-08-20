@@ -226,31 +226,86 @@ The findings provide insights into the design and training of mixed-modal models
 
 ---
 
-#### [Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns](https://dl.acm.org/doi/pdf/10.1145/3580305.3599853)
+#### “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models
 
-**Summary:**
-The paper proposes a knowledge-enhanced GAN (Generative Adversarial Network) for generating large-scale urban cellular traffic, essential for 5G network planning. This novel model simulates multi-periodic patterns and long-term aperiodic dynamics, capturing urban environmental influences through a knowledge graph (KG). Extensive experiments demonstrate a substantial performance improvement of over 32.77% compared to state-of-the-art models, with urban knowledge contributing 4.71% enhancement. Generalization and robustness across different urban areas also affirm the model's utility.
-
-**Key Takeaways**:
-
-- Innovative Model: The introduction of a GAN model with urban knowledge graphs allows for accurate simulation of long-term cellular traffic, capturing both periodic and aperiodic patterns.
-
-- Urban Environment Integration: By considering various urban factors, the model effectively tailors cellular traffic predictions to specific urban dynamics.
-
-- Significant Performance Improvement: With over 32% improvement compared to existing models and a further 4.71% from urban knowledge enhancement, the method exhibits superior fidelity.
-
-- Generalization & Application: Demonstrated effectiveness across different urban areas and potential applicability to other traffic types such as website visiting and urban passenger traffic supports the model's broader relevance and scalability.
+<a href="https://arxiv.org/pdf/2308.03825.pdf">
+<img src="https://www.scmagazine.com/_next/image?url=https%3A%2F%2Ffiles.scmagazine.com%2Fwp-content%2Fuploads%2F2023%2F07%2FScreenshot-2023-07-28-at-12.21.15-PM.png&w=1920&q=75" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
 
 
-***[Read Full Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599853)***
+**Main Highlight**:The paper focuses on the misuse of Large Language Models (LLMs) and the emergence of "jailbreak prompts," which are crafted to bypass safeguards and elicit harmful content from LLMs. 
+
+Through an extensive study of 6,387 prompts, it identifies characteristics and major attack strategies of jailbreak prompts, such as prompt injection and privilege escalation. The paper also highlights that current LLMs and safeguards are not adequately defending against these threats, with some jailbreak prompts achieving a 0.99 attack success rate on models like ChatGPT and GPT-4, and stresses the need for stronger defense mechanisms.
 
 
-*Hui, Wang, Yang, Feng, Zhu, Deng, Hui* <br></br>
-*Publication Date: August 8, 2023*
+***[Read Full Paper](https://arxiv.org/pdf/2308.03825.pdf)***
+
+*Shen, Chen, Backes, Zhang* <br></br>
+*Publication Date: 7 Aug , 2023*
 
 ---
 
+#### Platypus: Quick, Cheap, and Powerful Refinement of LLMs
+
+<a href="https://arxiv.org/pdf/2308.07317v1.pdf">
+<img src="https://raw.githubusercontent.com/arielnlee/Platypus/master/assets/Best_Platty.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+
+**Main Highlight**:Platypus, a family of fine-tuned and merged Large Language Models (LLMs), has achieved the strongest performance and tops HuggingFace's Open LLM Leaderboard. 
+
+The project introduces Open-Platypus, a curated dataset released to the public, and describes the process of fine-tuning and merging LoRA modules to bring specific domain knowledge to the forefront. 
+
+The 13B Platypus model can be trained on a single A100 GPU in 5 hours with 25k questions, offering strong performance with significantly less data and compute resources than other state-of-the-art LLMs, opening opportunities for more improvements in the field.
+
+
+***[Read Full Paper](https://arxiv.org/pdf/2308.07317v1.pdf)***
+
+*Lee, Hunter, Ruiz* <br></br>
+*Publication Date: 14 Aug , 2023*
+
+---
+
+#### TeCH: Text-guided Reconstruction of Lifelike Clothed Humans
+
+<a href="https://arxiv.org/pdf/2308.08545.pdf">
+<img src="https://i.ytimg.com/vi/MNA38AC9U5g/sddefault.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+
+**Main Highlight**:TeCH has introduced a new method for reconstructing 3D clothed human figures from a single image, addressing the unsolved challenge of accurately restoring "unseen regions" of the body. The method leverages descriptive text prompts and a personalized Text-to-Image diffusion model to optimize the 3D human's geometry and texture. 
+
+The technology shows promise for various applications in augmented and virtual reality, gaming, and more, but also raises concerns regarding potential misuse for deep-fake avatars and intellectual property issues.
+
+
+***[Read Full Paper](https://arxiv.org/pdf/2308.08545.pdf)***
+
+*Huang, Yi, Xiu et.al* <br></br>
+*Publication Date: 16 Aug , 2023*
+
+---
+
+#### XSTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models
+
+<a href="https://arxiv.org/pdf/2308.01263.pdf">
+<img src="https://media.licdn.com/dms/image/D4D22AQHL9eIg5TEFvg/feedshare-shrink_2048_1536/0/1691223790525?e=2147483647&v=beta&t=Wtr3y3gcczS4gGqiF7NjuqwumAXMUZWdxbxDVszwm1M" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+
+**Main Highlight**:This paper introduces a test suite called XSTEST to identify exaggerated safety behaviors in large language models (LLMs), such as refusing safe requests due to misinterpretation as unsafe. 
+
+Using XSTEST, the authors found that the Llama2 model exhibits substantial exaggerated safety behavior, refusing 38% of test prompts and partially refusing another 22%. 
+
+The findings suggest that this behavior is a result of lexical overfitting, making models overly sensitive to certain words, and that OpenAI's GPT-4 is better calibrated in comparison.
+
+
+***[Read Full Paper](https://arxiv.org/pdf/2308.01263.pdf)***
+
+*Röttger, Kirk, Vidgen, Attanasio, Bianchi et.al* <br></br>
+*Publication Date: 2 Aug , 2023*
+
+---
 ### Development
 
 #### Hugging Face: [Hugging Face Platform on the AWS Marketplace: Pay with your AWS Account](https://huggingface.co/blog/aws-marketplace)
