@@ -44,7 +44,7 @@ The selected projects span a wide range of applications, including memory prosth
 
 ---
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/EEPOkUV7J2c" title="Play:Youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://blogs.nvidia.com/wp-content/uploads/2023/08/y61-1280x720.png.webp"></img>
 
 
 #### NVIDIA: [Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)
@@ -60,7 +60,7 @@ The update facilitates seamless collaboration and expands creative possibilities
 
 ---
 
-<img src="https://i.ytimg.com/vi/vPHEtewFm3M/maxresdefault.jpg" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<img src="https://i.ytimg.com/vi/vPHEtewFm3M/maxresdefault.jpg" width="500" height="500" alt="Open AI: Generative AI Company"></img>
 
 #### OpenAI Blog: [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 
@@ -72,17 +72,19 @@ The update facilitates seamless collaboration and expands creative possibilities
 *Publication Date: August 16, 2023*
 
 ---
+<img src="https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200" width="500" height="500" alt="Open AI: Content Moderator"></img>
 
-#### Coin Telegraph: [Anthropic cracks open the black box to see how AI comes up with the stuff it says](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)
+#### OpenAI Blog: [Using GPT-4 for content moderation](https://openai.com/blog/using-gpt-4-for-content-moderation)
 
-**Summary**: Artificial intelligence research organization Anthropic has published significant research focusing on how large language models (LLMs) like Claude, ChatGPT, and Google's Bard generate their outputs. The study aims to understand if these models rely on "memorization" or whether there is a more complex relationship between training data, fine-tuning, and the eventual outputs.
 
-**Key Takeaway**: Anthropic's research delves into the complex workings of large language models (LLMs) to understand how they generate outputs, uncovering that these models don't rely solely on memorization of training data. By using a top-down approach with statistical analysis called "influence functions," the study sheds light on the multifaceted interaction within different AI layers. Although currently limited to pre-trained models, this research serves as a foundational step towards a more profound comprehension of neural network functions and may extend to more advanced models in the future.
+**Main Highlight**: GPT-4 is being used for content policy development and moderation, significantly speeding up the iteration on policy changes from months to hours and allowing more consistent labeling.
 
-***[Read Full Article](https://cointelegraph.com/news/anthropic-cracks-open-the-black-box-to-see-how-ai-comes-up-with-the-stuff-it-says)***
+By understanding and interpreting rules and nuances in content policies, GPT-4 is able to adapt instantly to updates, reducing reliance on human moderators.
 
-*Tristan Greene | Coin Telegraph* <br></br>
-*Publication Date: August 10, 2023*
+***[Read Full Article](https://openai.com/blog/using-gpt-4-for-content-moderation)***
+
+*OpenAI | Various Authors* <br></br>
+*Publication Date: August 16, 2023*
 
 ---
 ### Research Blogs
