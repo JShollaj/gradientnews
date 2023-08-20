@@ -295,7 +295,7 @@ The technology shows promise for various applications in augmented and virtual r
 
 **Main Highlight**:This paper introduces a test suite called XSTEST to identify exaggerated safety behaviors in large language models (LLMs), such as refusing safe requests due to misinterpretation as unsafe. 
 
-Using XSTEST, the authors found that the Llama2 model exhibits substantial exaggerated safety behavior, refusing 38% of test prompts and partially refusing another 22%. 
+Using XSTEST, the authors found that the Llama2 model exhibits substantial exaggerated safety behavior, refusin1g 38% of test prompts and partially refusing another 22%. 
 
 The findings suggest that this behavior is a result of lexical overfitting, making models overly sensitive to certain words, and that OpenAI's GPT-4 is better calibrated in comparison.
 
@@ -308,116 +308,58 @@ The findings suggest that this behavior is a result of lexical overfitting, maki
 ---
 ### Development
 
-#### Hugging Face: [Hugging Face Platform on the AWS Marketplace: Pay with your AWS Account](https://huggingface.co/blog/aws-marketplace)
-
-**Summary**:
-The Hugging Face Platform is now available on the AWS Marketplace, allowing AWS customers to pay for Hugging Face services directly through their AWS accounts. This integration simplifies the payment process for services like Inference Endpoints, Spaces Hardware Upgrades, and AutoTrain, facilitating easier access to popular machine learning models. The subscription process is outlined for users, ensuring seamless connectivity between AWS and Hugging Face accounts.
-
-**Key Takeaway**:
-This new integration between Hugging Face and AWS removes financial and administrative barriers, making it more convenient for businesses to adopt AI technologies. By centralizing billing through the AWS account, companies can efficiently manage payments for all Hugging Face services, fostering easier collaboration and utilization of machine learning models like Llama 2, StarCoder, or BERT. The identical pricing to public Hugging Face pricing, billed through AWS, streamlines the adoption process for developers and organizations.
-
-***[Read Full Article](https://huggingface.co/blog/aws-marketplace)***
+#### Llama-GPT
 
 
-*Simon Brandeis, Philipp Schmid, Jeff Boudier* <br></br>
-*Publication Date: August 10, 2023*
-
----
-
-#### Hugging Face: [Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](https://huggingface.co/blog/swift-coreml-llm)
-
-**Summary**:
-A slew of updates and tools were released today to support text generation in Swift, including the new swift-transformers package and the swift-chat app. Tools for Core ML conversion, like exporters and transformers-to-coreml, have been updated and some converted models like Llama 2 7B or Falcon 7B are ready for use. The details cover multiple aspects of conversion to Core ML, optimization techniques, tokenization, and more, including specific coding instructions.
-
-**Key Takeaway**:
-The release is a comprehensive step forward for Swift developers working with text generation and Core ML models, making the conversion and optimization process more streamlined and flexible. With support for different tokenization methods, abstraction of complex processes, and focus on optimization techniques, these updates enhance efficiency and provide a foundation for developers to work with different models and generation algorithms, offering an engaging platform for ongoing improvements and innovations.
-
-***[Read Full Article](https://huggingface.co/blog/swift-coreml-llm)***
+<a href="https://github.com/getumbrel/llama-gpt">
+<img src="https://camo.githubusercontent.com/8158198b3f4316b97d9a6d13256ad720aabc7c30e55538a7260f5deebd2a2a8b/68747470733a2f2f617070732e756d6272656c2e636f6d2f6170702f6c6c616d612d6770742f62616467652d6c696768742e737667" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
 
-*Pedro Cuenca* <br></br>
-*Publication Date: August 8, 2023*
+**Main Highlight**:A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
+
+
+***[Repository](https://github.com/getumbrel/llama-gpt)***
+
+*Author: GetUmbrel* <br></br>
 
 ---
 
-#### Hugging Face: [Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml)
-
-**Summary:**
-The article details how to deploy Hugging Face models, such as the DeepFloyd IF text-to-image model, using BentoML, an open-source platform for machine learning model serving and deployment. It walks through defining, saving, and deploying the model, and outlines how to use DeepFloyd IF in BentoML. Detailed instructions for preparing the environment, scaling runners, and building a deployable Bento are provided, including specific code and command examples.
-
-**Key Takeaway:**
-BentoML offers a comprehensive solution for deploying Hugging Face models like DeepFloyd IF in a production-ready manner. The article guides users step-by-step through the process, making it accessible even for those new to the platform. The capability of BentoML to handle various ML frameworks, along with its ease of use and integration with tools like Docker and Kubernetes, makes it a powerful tool for real-world deployment and scaling of AI applications.
-
-***[Read Full Article](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml)***
+#### Danswer
 
 
-*Sherlock Xu , Zhao Shenyang* <br></br>
-*Publication Date: August 9, 2023*
+<a href="https://github.com/danswer-ai/danswer">
+<img src="https://raw.githubusercontent.com/danswer-ai/danswer/1fabd9372d66cd54238847197c33f091a724803b/DanswerWithName.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
 
 
-#### GitHub: [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
+**Main Highlight**: Danswer allows you to ask natural language questions against internal documents and get back reliable answers backed by quotes and references from the source material so that you can always trust what you get back. You can connect to a number of common tools such as Slack, GitHub, Confluence, amongst others.
 
 
-**Summary:**
-The research paper titled "Generative Agents: Interactive Simulacra of Human Behavior" has been accompanied by a repository containing a core simulation module for generative agents that simulate human behaviors. The repository includes detailed instructions for setting up the simulation environment locally, running, replaying, and demoing a simulation, as well as customizing simulations through authoring agent history or creating new base simulations. There are specific directions for generating necessary files, installing requirements, starting servers, and utilizing different commands to interact with the simulations, providing a comprehensive guide for interacting with the generative agents in the game environment of Smallville.
+***[Repository](https://github.com/danswer-ai/danswer)***
 
-***[Refer to Repository](https://github.com/joonspk-research/generative_agents)***
+*Author: Danswer-AI* <br></br>
+
+---
+#### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 
 
-*Park, O'Brien, Cai, Morris, Liang, Bernstein* <br></br>
+<a href="https://github.com/qiuyu96/CoDeF">
+<img src="https://github.com/qiuyu96/CoDeF/raw/main/docs/teaser.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
+</a>
+
+
+**Main Highlight**: This repo introduces the content deformation field CoDeF, a new video representation comprising a canonical content field for static content and a temporal deformation field for transformations along time. 
+
+The CoDeF system has been designed to lift image algorithms for video processing, enabling image-to-image translation to be adapted for video-to-video translation and keypoint detection for keypoint tracking without training. This approach provides superior cross-frame consistency in processed videos and can track non-rigid objects like water and smog.
+
+
+***[Repository](https://github.com/qiuyu96/CoDeF)***
+
+*Author: Ouyang, Wang, Xiao, Bai, Zhang, Zhou et.al* <br></br>
 
 ---
 
-#### GitHub: [FaceChain](https://github.com/modelscope/facechain)
-
-
-**Summary:**
-FaceChain is a deep-learning toolchain designed to generate a digital twin using a single portrait photo. It enables users to create personal photos in various settings and is powered by ModelScope, offering compatibility with various Python and GPU configurations. Recent updates include resolving a GPU memory issue, adding a depth parameter to git clone to shorten download time, and providing installation guides for Docker, notebooks, and a detailed description of the algorithm's training and inference stages.
-
-***[Refer to Repository](https://github.com/modelscope/facechain)***
-
----
-
-#### GitHub: [FaceChain](https://github.com/modelscope/facechain)
-
-
-**Summary:**
-FaceChain is a deep-learning toolchain designed to generate a digital twin using a single portrait photo. It enables users to create personal photos in various settings and is powered by ModelScope, offering compatibility with various Python and GPU configurations. Recent updates include resolving a GPU memory issue, adding a depth parameter to git clone to shorten download time, and providing installation guides for Docker, notebooks, and a detailed description of the algorithm's training and inference stages.
-
-***[Refer to Repository](https://github.com/modelscope/facechain)***
-
----
-
-#### Langchain: [GPT Researcher x LangChain](https://blog.langchain.dev/gpt-researcher-x-langchain/)
-
-
-**Summary:**
-LangChain has integrated with GPT Researcher, a leading open-source research assistant, to enhance web research using Large Language Models (LLMs). The integration provides easy access to various LLM models and facilitates seamless logging with LangSmith, a debugging/logging/monitoring platform. LangChain believes that this collaboration represents a significant opportunity for LLMs and sees it as part of the future, with a focus on complex but targeted applications.
-
-***[Refer to Article](https://blog.langchain.dev/gpt-researcher-x-langchain/)***
-
----
-
-#### Langchain: [Villagers x LangSmith: Simulating multi-agent social networks with LangSmith](https://blog.langchain.dev/villagers-x-langsmith-simulating-multi-agent-social-networks/)
-
-
-**Summary:**
-The Villagers team collaborated with LangSmith to create a proof-of-concept for simulating multi-agent social networks, particularly mimicking real Twitter users' interactions. By utilizing LangSmith's capabilities, they were able to automate traces, quickly iterate on prompts, and efficiently debug for this complex scenario, including testing community responses to ad campaigns, political statements, and social commentary. The use of LangSmith significantly sped up development time and enhanced the confidence in the quality of the prompts in a system that required managing a large number of agents running in parallel.
-
-***[Refer to Article](https://blog.langchain.dev/villagers-x-langsmith-simulating-multi-agent-social-networks/)***
-
----
-
-#### Langchain: [NeumAI x LangChain: Efficiently maintaining context in sync for AI applications](https://blog.langchain.dev/neum-x-langchain/)
-
-
-**Summary:**
-NeumAI and LangChain have collaborated to enhance AI applications by maintaining context synchronously and efficiently, especially for data that constantly changes like team documentation. They have introduced scheduling and orchestration to the ingestion pipeline, utilizing LangChain text splitters. Neum automatically synchronizes the source data with the vector store, ensuring up-to-date context, and uses efficient vectorizing technology to reduce costs, all of which can be applied to large-scale AI applications like chatbots to make them more accurate and responsive.
-
-***[Refer to Article](https://blog.langchain.dev/neum-x-langchain/)***
-
-
----
 
 ### Practical Tutorials and Resources
 
