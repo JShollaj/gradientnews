@@ -12,12 +12,12 @@ draft: false
 
 ### General News
 
+#### What is a liquid neural network, really?
+
 <a href="https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/">
   <img src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1334264837.jpg?w=1390&crop=1" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 </a>
 
-
-#### What is a liquid neural network, really?
 
 
 **Main Highlight**: Liquid neural networks, a concept developed by Ramin Hasani and researchers at MIT, offer a flexible and adaptable approach to machine learning. These networks can scale down to have fewer but richer nodes, making them more efficient and less computationally expensive. 
@@ -30,12 +30,13 @@ Applications of these systems in robotics show potential for real-world use, inc
 *Publication Date: August 18, 2023*
 
 ---
+#### Artificial intelligence for augmentation and productivity
 
 <a href="https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818">
   <img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202308/Hands-e1689168802555.jpg?itok=wqJrVXg9" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 </a>
 
-#### Artificial intelligence for augmentation and productivity
+
 
 **Main Highlight**: 
 The MIT Schwarzman College of Computing has awarded seed grants to seven interdisciplinary projects focusing on AI-augmented management. Funded by Andrew W. Houston and Dropbox Inc., these projects aim to leverage artificial intelligence and human-computer interaction to enhance modern workspaces, achieving better management and higher productivity. 
@@ -49,11 +50,11 @@ The selected projects span a wide range of applications, including memory prosth
 
 ---
 
+#### Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support
+
 <a href="https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/">
 <img src="https://blogs.nvidia.com/wp-content/uploads/2023/08/y61-1280x720.png.webp" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 </a>
-
-#### Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support
 
 **Main Highlight**: Reallusion has updated its iClone Omniverse Connector, enhancing character animation workflows by offering real-time previews, a bidirectional workflow with Omniverse, and improved support for OpenUSD. 
 
@@ -66,13 +67,13 @@ The update facilitates seamless collaboration and expands creative possibilities
 
 ---
 
+
+#### OpenAI acquires Global Illumination
+
 <a href="https://openai.com/blog/openai-acquires-global-illumination">
 <img src="https://i.ytimg.com/vi/vPHEtewFm3M/maxresdefault.jpg" width="500" height="500" alt="Open AI: Generative AI Company"></img>
 </a>
 
-
-
-#### OpenAI acquires Global Illumination
 
 **Main Highlight**: OpenAI has acquired the team at Global Illumination, a company known for leveraging AI in creative tools and digital experiences. The team, who previously contributed to major companies like Instagram, Facebook, YouTube, Google, Pixar, and Riot Games, has joined OpenAI to work on core products including ChatGPT.
 
@@ -83,11 +84,11 @@ The update facilitates seamless collaboration and expands creative possibilities
 
 ---
 
+#### Using GPT-4 for content moderation
+
 <a href="https://openai.com/blog/using-gpt-4-for-content-moderation">
 <img src="https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
-
-#### Using GPT-4 for content moderation
 
 
 **Main Highlight**: GPT-4 is being used for content policy development and moderation, significantly speeding up the iteration on policy changes from months to hours and allowing more consistent labeling.
@@ -102,12 +103,11 @@ By understanding and interpreting rules and nuances in content policies, GPT-4 i
 ---
 ### Research Blogs
 
+#### Autonomous visual information seeking with large language models
 
 <a href="https://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyNe-vfM669M0AsGp7RYUoWVVyt5-AQrDA34CTde4zp5CgFzaqQqiNmnxcNz3AbvKpoBXoBywipTwYlkZkjzjIilpgLPaJvSpmMLaApLNmkGqH1GHgvzmHZ2w2S5Ku-hCubbW62wZIwuhKTn2R9S5OlrBkyF2ylkU8APoVAqaagGiRc5l3u05g6qag9mU/s16000/image4.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
-
-#### Autonomous visual information seeking with large language models
 
 
 **Main Highlight**: Google Research has introduced "AVIS: Autonomous Visual Information Seeking with Large Language Models", a novel method that elevates the performance of large language models (LLMs) on visual information seeking tasks. 
@@ -123,11 +123,12 @@ The method achieved state-of-the-art results on visual information seeking datas
 
 ---
 
+#### Consistent Collaborative Filtering via Tensor Decomposition
+
 <a href="https://machinelearning.apple.com/research/consistent-collaborative-filtering-updates">
 <img src="https://www.mdpi.com/applsci/applsci-09-01928/article_deploy/html/images/applsci-09-01928-g001.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
-#### Consistent Collaborative Filtering via Tensor Decomposition
 
 **Main Highlight**: A new model called Sliced Anti-symmetric Decomposition (SAD) has been developed by Apple, for collaborative filtering in recommendation systems, based on implicit feedback. 
 
@@ -142,11 +143,12 @@ The model has demonstrated efficiency in both simulated and real-world datasets,
 
 ---
 
+#### Which GPU(s) to Get for Deep Learning
+
 <a href="https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/">
 <img src="https://images.contentstack.io/v3/assets/blt71da4c740e00faaa/bltccee8185af86036b/62693f46f8819866142d8373/gpus.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
-#### Which GPU(s) to Get for Deep Learning
 
 **Main Highlight**: Tim Dettmers provides comprehensive advice and insights on selecting the best GPU for deep learning, emphasizing the importance of GPU RAM, cores, tensor cores, and caches. 
 
@@ -160,11 +162,13 @@ The guide also includes a Q&A section to tackle common misconceptions and addres
 *Updated Publication Date: August 8, 2023*
 
 ---
+
+#### Scientific discovery in the age of artificial intelligence
+
 <a href="https://www.nature.com/articles/s41586-023-06221-2.epdf?sharing_token=VNBCL-B5z7x9yroz7VHXjtRgN0jAjWel9jnR3ZoTv0NZ6DLC7sCSFQ-fnesQT80MG5tIwXOiTkbck2M8kGB2OXNe_nMse2r__TenJJwQRyiWRVae4mZzA-YquCQg9JAzwBK1UiBZQkjUqHME4HBPT-c4BOt-he7EpCkSUxM_2xo%3D">
 <img src="https://www.gratasoftware.com/wp-content/uploads/2019/07/ai-analysis.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
-#### Scientific discovery in the age of artificial intelligence
 
 
 **Main Highlight**: The integration of AI into scientific discovery has led to breakthroughs such as self-supervised learning and geometric deep learning, augmenting traditional research methods. 
