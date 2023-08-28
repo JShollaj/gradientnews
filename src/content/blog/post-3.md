@@ -2,8 +2,8 @@
 title: "AI Developments: Report #3"
 meta_title: "Latest Developments"
 description: "Latest developments in the field of AI (Aug 21, 2023 - Aug 28, 2023)"
-date: 2023-08-28T01:00:00Z
-image: "https://dzslhiqiy3lnx.cloudfront.net/post-2/post-2-main.png"
+date: 2023-08-28T04:00:00Z
+image: "https://dzslhiqiy3lnx.cloudfront.net/post-3/post-3-main.png"
 categories: ["Technology", "Data"]
 author: "Johnny Shollaj"
 tags: ["AI", "Machine Learning"]
@@ -14,93 +14,94 @@ Another week where we noticed an exponential development in LLMs and more effort
 Progress has been noted also in multimodal and recommender system development, while more AI startups are
 receiving massive hype.
 
-#### What is a liquid neural network, really?
+#### How con artists use AI, apps, social engineering to target parents, grandparents for theft
 
-<a href="https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/">
-  <img src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1334264837.jpg?w=1390&crop=1" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<a href="https://www.cbsnews.com/news/how-con-artists-use-ai-apps-to-steal-60-minutes-transcript/">
+  <img src="https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/19/7919cb6f-0c2b-4b74-ba13-bdd35f4c43fb/thumbnail/1240x698/9d17c2b004047f49fb47c0f305b97b75/digital-theft-transcript.jpg?v=85153828b1c3c07a041ab8e73ff87e39" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 </a>
 
 
 
-**Main Highlight**: Liquid neural networks, a concept developed by Ramin Hasani and researchers at MIT, offer a flexible and adaptable approach to machine learning. These networks can scale down to have fewer but richer nodes, making them more efficient and less computationally expensive. 
+**Main Highlight:** The article discusses the growing problem of online scams targeting older Americans, revealing that seniors are the group losing the most money to these scams. Utilizing AI, social engineering, and readily available apps, scammers are executing increasingly sophisticated operations, including the "grandparent scam," which cost victims thousands of dollars. A report from the FBI notes that Americans lost over $10 billion to online scams and digital fraud last year.
 
-Applications of these systems in robotics show potential for real-world use, including using Raspberry Pi for complex reasoning, reducing the number of neurons for faster solutions, and creating more transparent decision-making processes. These networks require time series data and could help in safety-critical systems by avoiding unnecessary mistakes.
+**Terms to Understand:** Grandparent Scam, Social Engineering, Ethical Hacker
 
-***[Read Full Article](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)***
+***[Read Full Article](https://www.cbsnews.com/news/how-con-artists-use-ai-apps-to-steal-60-minutes-transcript/)***
 
-*Brian Heater | Tech Crunch* <br></br>
-*Publication Date: August 18, 2023*
+*Sharyn Alfonsi | CBS News* <br></br>
+*Publication Date: August 27, 2023*
 
 ---
-#### Artificial intelligence for augmentation and productivity
+#### Midjourney Takes on Photoshop with Its Own AI Generative Fill-Like Feature
 
-<a href="https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818">
-  <img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202308/Hands-e1689168802555.jpg?itok=wqJrVXg9" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<a href="https://beebom.com/midjourney-generative-fill-feature-takes-on-photoshop/">
+  <img src="https://beebom.com/wp-content/uploads/2023/08/This-image-represents-the-Midjourney-server-on-Discord.jpg?quality=75&strip=all" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 </a>
 
 
 
-**Main Highlight**: 
-The MIT Schwarzman College of Computing has awarded seed grants to seven interdisciplinary projects focusing on AI-augmented management. Funded by Andrew W. Houston and Dropbox Inc., these projects aim to leverage artificial intelligence and human-computer interaction to enhance modern workspaces, achieving better management and higher productivity. 
+**Main Highlight:** Midjourney, a leading AI art generator, is launching a new feature called Vary (Region), designed to compete with Adobe Photoshop’s Generative Fill tool. The Vary (Region) feature allows users to regenerate specific parts of an upscaled image, giving them the ability to add, remove, or alter elements within the image.
 
-The selected projects span a wide range of applications, including memory prosthetics, social scenario simulation, healthcare improvement, and democratizing programming, demonstrating the potential breadth of impact on various sectors of society and the economy.
+**Terms to Understand:** Generative Fill, Vary (Region), Text-to-Image Generation
 
-***[Read Full Article](https://news.mit.edu/2023/artificial-intelligence-augmentation-and-productivity-0818)***
+***[Read Full Article](https://beebom.com/midjourney-generative-fill-feature-takes-on-photoshop/)***
 
-*Schwarzman College of Computing | MIT* <br></br>
-*Publication Date: August 18, 2023*
-
----
-
-#### Reallusion Elevates Character Animation Workflows With Two-Way Live Sync and OpenUSD Support
-
-<a href="https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/">
-<img src="https://blogs.nvidia.com/wp-content/uploads/2023/08/y61-1280x720.png.webp" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
-</a>
-
-**Main Highlight**: Reallusion has updated its iClone Omniverse Connector, enhancing character animation workflows by offering real-time previews, a bidirectional workflow with Omniverse, and improved support for OpenUSD. 
-
-The update facilitates seamless collaboration and expands creative possibilities by including real-time synchronization of projects and enhanced import functionality. These features are designed to make work between iClone and Omniverse quicker and more efficient, and come along with additional bug fixes and improvements.
-
-***[Read Full Article](https://blogs.nvidia.com/blog/2023/08/16/openusd-support-for-elevated-animation-workflows/)***
-
-*DANE JOHNSTON | NVIDIA* <br></br>
-*Publication Date: August 16, 2023*
+*Siddhartha Samaddar | Beebom* <br></br>
+*Publication Date: August 27, 2023*
 
 ---
 
+#### Can AI-generated art be copyrighted? A US judge says not, but it’s just a matter of time
 
-#### OpenAI acquires Global Illumination
+<a href="https://www.theguardian.com/commentisfree/2023/aug/26/ai-generated-art-copyright-law-recent-entrance-paradise-creativity-machine">
+<img src="https://i.guim.co.uk/img/media/85c3866dcc65fd37d2e15aff02fc846204b0b57c/0_0_1890_1417/master/1890.jpg?width=620&dpr=2&s=none" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+</a>
 
-<a href="https://openai.com/blog/openai-acquires-global-illumination">
-<img src="https://i.ytimg.com/vi/vPHEtewFm3M/maxresdefault.jpg" width="500" height="500" alt="Open AI: Generative AI Company"></img>
+**Main Highlight:** A U.S. federal judge recently denied copyright protection to an artwork generated solely by an AI, citing that current American copyright laws protect only works of human creation. However, the judge acknowledged that copyright law is flexible enough to adapt to technological innovations and suggested that it's just a matter of time before works created by AI could qualify for copyright.
+
+**Terms to Understand:** Human Involvement Criterion, Copyright Law, AI-Generated Art
+
+***[Read Full Article](https://www.theguardian.com/commentisfree/2023/aug/26/ai-generated-art-copyright-law-recent-entrance-paradise-creativity-machine)***
+
+*John Naughton | The Guardian* <br></br>
+*Publication Date: August 26, 2023*
+
+---
+
+
+#### How To Use AI To Create an Award-Winning Podcast
+
+<a href="https://www.entrepreneur.com/growing-a-business/using-chatgpt-and-ai-for-podcast-content-strategy/458084">
+<img src="https://media.wired.com/photos/6435f92f13021b2cf16d62ab/16:9/w_2400,h_1350,c_limit/AI-Podcast-GettyImages-1131242410.jpg" width="500" height="500" alt="Open AI: Generative AI Company"></img>
 </a>
 
 
-**Main Highlight**: OpenAI has acquired the team at Global Illumination, a company known for leveraging AI in creative tools and digital experiences. The team, who previously contributed to major companies like Instagram, Facebook, YouTube, Google, Pixar, and Riot Games, has joined OpenAI to work on core products including ChatGPT.
+**Main Highlight:** The article discusses how the integration of AI and predictive analytics can give podcast creators a competitive edge by tailoring content to their audience, automating content curation, enhancing listener interaction, and personalizing advertising. However, it emphasizes the need to maintain the human element for authenticity and personal touch in podcasts.
 
-***[Read Full Article](https://openai.com/blog/openai-acquires-global-illumination)***
+**Terms to Understand:** Predictive Analytics, Artificial Intelligence (AI), Content Strategy
 
-*OpenAI | Various Authors* <br></br>
-*Publication Date: August 16, 2023*
+***[Read Full Article](https://www.entrepreneur.com/growing-a-business/using-chatgpt-and-ai-for-podcast-content-strategy/458084)***
+
+*Entrepreneur | Adam Torkildson* <br></br>
+*Publication Date: August 25, 2023*
 
 ---
 
 #### Using GPT-4 for content moderation
 
-<a href="https://openai.com/blog/using-gpt-4-for-content-moderation">
-<img src="https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://www.visualcapitalist.com/nvidia-vs-amd-vs-intel-comparing-ai-chip-sales/">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2023/08/Nvidia-vs-AMD-vs-Intel_AI-Chip-Sales.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**: GPT-4 is being used for content policy development and moderation, significantly speeding up the iteration on policy changes from months to hours and allowing more consistent labeling.
+**Main Highlight:** Nvidia has emerged as a dominant player in AI chip sales, with its Data Center revenue reaching $10.3 billion in Q2 2023 and capturing more than 70% of the AI chip market share. AMD trails behind, but is refocusing on AI with new chips offering more memory. Intel lags significantly, facing declining revenue and nearly no share in the AI chip market.
 
-By understanding and interpreting rules and nuances in content policies, GPT-4 is able to adapt instantly to updates, reducing reliance on human moderators.
+**Terms to Understand:** Data Center Revenue, Market Share, AI Chips
 
-***[Read Full Article](https://openai.com/blog/using-gpt-4-for-content-moderation)***
+***[Read Full Article](https://www.visualcapitalist.com/nvidia-vs-amd-vs-intel-comparing-ai-chip-sales/)***
 
-*OpenAI | Various Authors* <br></br>
-*Publication Date: August 16, 2023*
+*Visual Capitalist | Jenna Ross & Sam Parker* <br></br>
+*Publication Date: August 25, 2023*
 
 ---
 ### Research Blogs
