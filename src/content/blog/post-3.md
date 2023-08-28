@@ -266,53 +266,56 @@ receiving massive hype.
 
 #### DSPy: The framework for programming with foundation models
 
-
 <a href="https://github.com/stanfordnlp/dspy">
 <img src="https://raw.githubusercontent.com/stanfordnlp/dspy/main/docs/images/DSPy8.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**:A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
+**Main Highlight:** DSPy is a Pythonic framework designed to make working with language models (LMs) and retrieval models (RMs) easier and more efficient. It provides modular, composable techniques for tasks like prompting, fine-tuning, and reasoning. The framework also introduces an automatic compiler that can train LMs on tasks without manual label engineering, making it scalable and adaptive to a variety of tasks.
+
+**Terms to Understand:** Language Models (LMs), Retrieval Models (RMs), Prompting, Fine-Tuning, Compiler
 
 
 ***[Repository](https://github.com/stanfordnlp/dspy)***
 
-*Author: GetUmbrel* <br></br>
+*Author(s): Omar Khattab, Chris Potts and Matei Zaharia* <br></br>
 
 ---
 
-#### Danswer
+#### GPT Pilot
 
 
-<a href="https://github.com/danswer-ai/danswer">
-<img src="https://raw.githubusercontent.com/danswer-ai/danswer/1fabd9372d66cd54238847197c33f091a724803b/DanswerWithName.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://github.com/Pythagora-io/gpt-pilot">
+<img src="https://user-images.githubusercontent.com/10895136/262046511-d89ba1d4-1208-4b7f-b3d4-76e3ccea584e.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**: Danswer allows you to ask natural language questions against internal documents and get back reliable answers backed by quotes and references from the source material so that you can always trust what you get back. You can connect to a number of common tools such as Slack, GitHub, Confluence, amongst others.
+**Main Highlight:**  GPT Pilot is a research project aimed at using GPT-4 to automate the coding of production-ready apps. Although it can handle 95% of the coding, the remaining 5% requires human intervention for fine-tuning and debugging. The tool allows step-by-step development, facilitating easier debugging and better code understanding, and it is designed to scale for large and complex applications.
+
+**Terms to Understand:** GPT Pilot, AGI (Artificial General Intelligence), TDD (Test Driven Development)
 
 
-***[Repository](https://github.com/danswer-ai/danswer)***
+***[Repository](https://github.com/Pythagora-io/gpt-pilot)***
 
-*Author: Danswer-AI* <br></br>
+*Author: Pythagora-io* <br></br>
 
 ---
-#### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+#### CodeLlama
 
 
-<a href="https://github.com/qiuyu96/CoDeF">
-<img src="https://github.com/qiuyu96/CoDeF/raw/main/docs/teaser.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://github.com/facebookresearch/codellama">
+<img src="https://i.ytimg.com/vi/U24mPUHXuv8/maxresdefault.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**: This repo introduces the content deformation field CoDeF, a new video representation comprising a canonical content field for static content and a temporal deformation field for transformations along time. 
+**Main Highlight:** Code Llama is a state-of-the-art family of large language models for code with various specializations, including Python and instruction-following. It offers models with 7B, 13B, and 34B parameters and supports large input contexts and zero-shot instruction following. The technology is aimed at individuals, creators, researchers, and businesses to foster innovation in code-related tasks.
 
-The CoDeF system has been designed to lift image algorithms for video processing, enabling image-to-image translation to be adapted for video-to-video translation and keypoint detection for keypoint tracking without training. This approach provides superior cross-frame consistency in processed videos and can track non-rigid objects like water and smog.
+**Terms to Understand:** Infilling, Zero-Shot Instruction Following, Tokenizers
 
 
-***[Repository](https://github.com/qiuyu96/CoDeF)***
+***[Repository](https://github.com/facebookresearch/codellama)***
 
-*Author: Ouyang, Wang, Xiao, Bai, Zhang, Zhou et.al* <br></br>
+*Author: Meta* <br></br>
 
 ---
 
