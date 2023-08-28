@@ -147,63 +147,62 @@ receiving massive hype.
 ### Research Papers
 
 
-#### Scaling Laws for Generative Mixed-Modal Language Models
+#### Code Llama: Open Foundation Models for Code
 
-<a href="https://arxiv.org/pdf/2301.03728.pdf">
-<img src="https://media.arxiv-vanity.com/render-output/7160109/x17.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/">
+<img src="https://scontent.fsin15-1.fna.fbcdn.net/v/t39.8562-6/369652058_690162392972818_1173984281354057457_n.gif?_nc_cat=103&ccb=1-7&_nc_sid=6825c5&_nc_ohc=GoF9AI5vkZsAX9cKP_I&_nc_ht=scontent.fsin15-1.fna&oh=00_AfDvbxRKlA_C0q3V4TFhrtruYg3HgWhnJJGJ_FYnsPGUuw&oe=64F03FD3" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
 
-**Main Highlight**: The study was conducted to explore the scaling properties of mixed-modal generative language models, examining the interaction between different modalities like text, speech, images, and code.
+**Main Highlight:** The article introduces Code Llama, a family of large language models designed for code generation and infilling tasks. These models come in different flavors, specialized for Python and instruction-following, and are available in sizes with 7B, 13B, and 34B parameters. They are trained to handle large contexts up to 100k tokens and have shown state-of-the-art performance in code benchmarks like HumanEval and MBPP.
 
-The research, including over 250 experiments with seven modalities and varying model sizes, has identified new mixed-modal scaling laws that capture both individual modalities and their interactions, predicting competition and synergy.
-
-The findings provide insights into the design and training of mixed-modal models, including guidelines for hyperparameter selection, and will likely advance the development of unified models handling multiple modalities simultaneously.
+**Terms to Understand:** Code Llama (family of large language models for code), Infilling (filling in missing parts of code), HumanEval & MBPP (code benchmarks).
 
 
-***[Read Full Paper](https://arxiv.org/pdf/2301.03728.pdf)***
+***[Read Full Paper](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)***
 
-*Aghajanyan, Yu, Conneau, Hsu* <br></br>
-*Publication Date: 10 Jan , 2023*
+*Meta* <br></br>
+*Publication Date: 24 Aug , 2023*
 
 ---
 
-#### Sigmoid Loss for Language Image Pre-Training
+#### ExpeL: LLM Agents Are Experiential Learners
 
-<a href="https://arxiv.org/pdf/2303.15343.pdf">
-<img src="https://www.researchgate.net/publication/369556647/figure/fig1/AS:11431281130904544@1679973129344/SigLiT-ImageNet-0-shot-transfer-results-with-different-training-durations-Large-batch_Q320.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.10144">
+<img src="https://www.researchgate.net/publication/373262870/figure/fig1/AS:11431281182949679@1692674574042/ExpeL-Agent-Overview-Left-ExpeL-operates-in-three-stages-1-Collection-of-success-and.ppm" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
 
-**Main Highlight**:This new sigmoid loss method performs better, particularly at smaller batch sizes, and allows for further scaling up of the batch size, without requiring additional resources. With this method, the researchers were able to achieve up to 84.5% ImageNet zero-shot accuracy within two days, making it a promising advancement for image-text pre-training.
+**Main Highlight:** The paper introduces the Experiential Learning (ExpeL) agent, a novel Large Language Model (LLM) designed for custom decision-making tasks. Unlike traditional LLMs, ExpeL doesn't require fine-tuning or access to model parameters; it learns from experience and past tasks to make informed decisions, thereby improving its own performance over time. The agent has been empirically shown to outperform strong baselines in various domains and exhibits forward transferability of knowledge.
+
+**Terms to Understand:** Experiential Learning (ExpeL), Large Language Models (LLMs), Forward Transferability
 
 
-***[Read Full Paper](https://arxiv.org/pdf/2303.15343.pdf)***
+***[Read Full Paper](https://arxiv.org/abs/2308.10144)***
 
-*Zhai, Mustafa, Kolesnikov, Beyer* <br></br>
-*Publication Date: 4 May , 2023*
+*Zhao, Huang, Xu, Lin, Liu, Huang* <br></br>
+*Publication Date: 20 Aug , 2023*
 
 ---
 
-#### “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models
+#### Instruction Tuning for Large Language Models: A Survey
 
-<a href="https://arxiv.org/pdf/2308.03825.pdf">
-<img src="https://www.scmagazine.com/_next/image?url=https%3A%2F%2Ffiles.scmagazine.com%2Fwp-content%2Fuploads%2F2023%2F07%2FScreenshot-2023-07-28-at-12.21.15-PM.png&w=1920&q=75" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.10792">
+<img src="https://storage.googleapis.com/wandb-production.appspot.com/vincenttu/images/projects/37228380/5a69d608.png?Expires=1693208671&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=RLgnikwMc5MbQDie1dkGCUcKWtWkEg%2FAYFlj936SDP%2BLaIPlbGJ%2BHyRVlmPvQEEnp%2BlrSNYyAdRpr%2FGUzAUb5kEvtMzBGNYia%2F1CB%2BBvYcsJqQkF2d%2BsMgkr1fGztrruxe6OwI1b1tzU5vm2iofWF5NsG%2B%2BeLXruWHdaw4aLUQr68PHeceJqjq4WpgQp5qA1kLnZg1uxTFk5sJWUtvrlBeackYINiuyZHFyxkHineKzEnF8t4SfmdxVlOrBo9vCt6oPYVYG%2B06fwWCIomqcUgaysVNWGnnBqeHvuEsyVhgUMaMSAajtB5KUmCEwXqtBcwiQdIzJHs8j8femED1Pubg%3D%3D" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
+**Main Highlight:** The paper provides a comprehensive survey on the emerging field of Instruction Tuning (IT) for large language models (LLMs). It delves into the methodologies, dataset construction, model training, applications across various modalities, and critiques of IT. The paper also identifies the advantages and shortcomings of IT, including its ability to make LLMs more controllable and challenges related to the quality of instructions and task understanding.
 
-**Main Highlight**:The paper focuses on the misuse of Large Language Models (LLMs) and the emergence of "jailbreak prompts," which are crafted to bypass safeguards and elicit harmful content from LLMs. 
-
-Through an extensive study of 6,387 prompts, it identifies characteristics and major attack strategies of jailbreak prompts, such as prompt injection and privilege escalation. The paper also highlights that current LLMs and safeguards are not adequately defending against these threats, with some jailbreak prompts achieving a 0.99 attack success rate on models like ChatGPT and GPT-4, and stresses the need for stronger defense mechanisms.
+**Terms to Understand:** Instruction Tuning (IT), Large Language Models (LLMs), Dataset Construction.
 
 
-***[Read Full Paper](https://arxiv.org/pdf/2308.03825.pdf)***
+***[Read Full Paper](https://arxiv.org/abs/2308.10792)***
 
-*Shen, Chen, Backes, Zhang* <br></br>
-*Publication Date: 7 Aug , 2023*
+*Zhang, Dong et. al* <br></br>
+*Publication Date: 21 Aug , 2023*
 
 ---
 
