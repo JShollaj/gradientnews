@@ -10,7 +10,9 @@ tags: ["AI", "Machine Learning"]
 draft: false
 ---
 
-### General News
+Another week where we noticed an exponential development in LLMs and more efforts to moderate answers.
+Progress has been noted also in multimodal and recommender system development, while more AI startups are
+receiving massive hype.
 
 #### What is a liquid neural network, really?
 
