@@ -10,9 +10,7 @@ tags: ["AI", "Machine Learning"]
 draft: false
 ---
 
-Another week where we noticed an exponential development in LLMs and more efforts to moderate answers.
-Progress has been noted also in multimodal and recommender system development, while more AI startups are
-receiving massive hype.
+The main highlights for this week have open source initiatives developed by Meta in Code-Llama as well as numerous frameworks assisting LLM development. New surveys have been conducted to keep track of Agents in LLM and Fine-tuning.
 
 #### How con artists use AI, apps, social engineering to target parents, grandparents for theft
 
