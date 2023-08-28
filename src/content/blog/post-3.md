@@ -264,18 +264,18 @@ receiving massive hype.
 ---
 ### Development
 
-#### Llama-GPT
+#### DSPy: The framework for programming with foundation models
 
 
-<a href="https://github.com/getumbrel/llama-gpt">
-<img src="https://camo.githubusercontent.com/8158198b3f4316b97d9a6d13256ad720aabc7c30e55538a7260f5deebd2a2a8b/68747470733a2f2f617070732e756d6272656c2e636f6d2f6170702f6c6c616d612d6770742f62616467652d6c696768742e737667" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://github.com/stanfordnlp/dspy">
+<img src="https://raw.githubusercontent.com/stanfordnlp/dspy/main/docs/images/DSPy8.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
 **Main Highlight**:A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 
 
-***[Repository](https://github.com/getumbrel/llama-gpt)***
+***[Repository](https://github.com/stanfordnlp/dspy)***
 
 *Author: GetUmbrel* <br></br>
 
