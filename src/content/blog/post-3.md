@@ -106,46 +106,6 @@ receiving massive hype.
 ---
 ### Research Blogs
 
-#### Autonomous visual information seeking with large language models
-
-<a href="https://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyNe-vfM669M0AsGp7RYUoWVVyt5-AQrDA34CTde4zp5CgFzaqQqiNmnxcNz3AbvKpoBXoBywipTwYlkZkjzjIilpgLPaJvSpmMLaApLNmkGqH1GHgvzmHZ2w2S5Ku-hCubbW62wZIwuhKTn2R9S5OlrBkyF2ylkU8APoVAqaagGiRc5l3u05g6qag9mU/s16000/image4.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
-</a>
-
-
-**Main Highlight**: Google Research has introduced "AVIS: Autonomous Visual Information Seeking with Large Language Models", a novel method that elevates the performance of large language models (LLMs) on visual information seeking tasks. 
-
-Utilizing three types of tools - computer vision tools, web search tools, and image search tools - AVIS uses an LLM-powered planner and reasoner to extract and analyze information from various sources.
-
-The method achieved state-of-the-art results on visual information seeking datasets, showing a significant improvement in accuracy and efficiency by incorporating human decision-making data and using a dynamic, structured approach to decision-making.
-
-***[Read Full Article](https://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html)***
-
-*Ziniu Hu, Alireza Fathi, | Google* <br></br>
-*Publication Date: August 18, 2023*
-
----
-
-#### Consistent Collaborative Filtering via Tensor Decomposition
-
-<a href="https://machinelearning.apple.com/research/consistent-collaborative-filtering-updates">
-<img src="https://www.mdpi.com/applsci/applsci-09-01928/article_deploy/html/images/applsci-09-01928-g001.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
-</a>
-
-
-**Main Highlight**: A new model called Sliced Anti-symmetric Decomposition (SAD) has been developed by Apple, for collaborative filtering in recommendation systems, based on implicit feedback. 
-
-Unlike traditional methods that estimate latent vectors for users and items, SAD introduces an additional latent vector for each item using a novel three-way tensor view. This innovation extends user-item preferences, suggesting that users may have nonlinear mental models when evaluating items. 
-
-The model has demonstrated efficiency in both simulated and real-world datasets, outperforming seven state-of-the-art collaborative filtering models in consistency and accuracy of personalized preferences.
-
-***[Read Full Article](https://machinelearning.apple.com/research/consistent-collaborative-filtering-updates)***
-
-*Shiwen Zhao, Charles Crissman, Guillermo R Sapiro | Apple* <br></br>
-*Publication Date: August 16, 2023*
-
----
-
 #### Teaching language models to reason algorithmically
 
 <a href="https://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html">
