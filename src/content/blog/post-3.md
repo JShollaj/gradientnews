@@ -146,43 +146,41 @@ The model has demonstrated efficiency in both simulated and real-world datasets,
 
 ---
 
-#### Which GPU(s) to Get for Deep Learning
+#### Teaching language models to reason algorithmically
 
-<a href="https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/">
-<img src="https://images.contentstack.io/v3/assets/blt71da4c740e00faaa/bltccee8185af86036b/62693f46f8819866142d8373/gpus.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin8actGxFN2C2mvGMhV_fSzN4Cta1Yd84uvVO5fRO2RcMjzrPY1t-V0mJ2u0x1s0zpCW3bKLX-_3kF4twqNyQMMTrmlTeOvfVdwS6iMYabwgE_RVPe_PFKM6-JBdGS1B8WyMmiVLRalfhD-mN4c-CE4ZXQNhL-Q8pP3q-uy_Xt6i7VkZCGiKqA97AGFnlB/w640-h89/image1.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**: Tim Dettmers provides comprehensive advice and insights on selecting the best GPU for deep learning, emphasizing the importance of GPU RAM, cores, tensor cores, and caches. 
+**Main Highlight:** The article discusses a new approach for teaching Large Language Models (LLMs) algorithmic reasoning capabilities through in-context learning and algorithmic prompting. This enables LLMs to solve more complex arithmetic problems and work effectively on out-of-distribution examples, potentially unlocking greater reasoning capabilities in such models.
 
-The blog post is structured to guide readers through the details of GPU functionality, including comparisons between CPU and GPU, the unique features of NVIDIA's RTX 40 Ampere series, and practical recommendations for various scenarios.
+**Terms to Understand:** In-Context Learning, Algorithmic Prompting, Out-of-Distribution Generalization
 
-The guide also includes a Q&A section to tackle common misconceptions and address specific questions like cloud vs desktop considerations, cooling strategies, and the comparison between AMD and NVIDIA.
+***[Read Full Article](https://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html)***
 
-***[Read Full Article](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)***
-
-*Tim Dettmers* <br></br>
+*Hattie Zhou, Hanie Sedghi - Google Research* <br></br>
 *Updated Publication Date: August 8, 2023*
 
 ---
 
-#### Scientific discovery in the age of artificial intelligence
+#### Responsible AI at Google Research: Perception Fairness
 
-<a href="https://www.nature.com/articles/s41586-023-06221-2.epdf?sharing_token=VNBCL-B5z7x9yroz7VHXjtRgN0jAjWel9jnR3ZoTv0NZ6DLC7sCSFQ-fnesQT80MG5tIwXOiTkbck2M8kGB2OXNe_nMse2r__TenJJwQRyiWRVae4mZzA-YquCQg9JAzwBK1UiBZQkjUqHME4HBPT-c4BOt-he7EpCkSUxM_2xo%3D">
-<img src="https://www.gratasoftware.com/wp-content/uploads/2019/07/ai-analysis.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfN1jwbJve1vMavRMJkmG6JXejOEdb4irf3KcYGnf-_UdciQRy_gXI0D6x9afEZLjCZwb9C0VfyXbvhuckpTonH8ghjgAJ7yDZsc0OlEOznCZlNg_OQxYacKcwDJSMkWPm8Xc_EROheeAsCYFVyYsigqA7Ydfnl9k5rB6erVkYpL7MqBpdeqIJm9H5sani/w640-h144/image1.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
 
-**Main Highlight**: The integration of AI into scientific discovery has led to breakthroughs such as self-supervised learning and geometric deep learning, augmenting traditional research methods. 
+**Main Highlight:** Google's Perception Fairness team is actively working on integrating fairness and inclusion into multimodal machine learning systems, including computer vision and generative AI technologies. The team's research spans from addressing system biases to optimizing performance metrics that include fairness, with practical applications influencing Google's products like Search and Google Photos.
 
-These advancements enable the creation of new designs and help scientists throughout the research process, although challenges remain in data quality and the understanding of AI's capabilities and limitations. 
+**Terms to Understand:** Multimodal Machine Learning, Perception Fairness, AI Principles
 
 
-***[Read Full Paper](https://www.nature.com/articles/s41586-023-06221-2.epdf?sharing_token=VNBCL-B5z7x9yroz7VHXjtRgN0jAjWel9jnR3ZoTv0NZ6DLC7sCSFQ-fnesQT80MG5tIwXOiTkbck2M8kGB2OXNe_nMse2r__TenJJwQRyiWRVae4mZzA-YquCQg9JAzwBK1UiBZQkjUqHME4HBPT-c4BOt-he7EpCkSUxM_2xo%3D)***
+***[Read Full Paper](https://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html)***
 
-*Wang, Fu, Du, Huang, Deac, Gao, Liu, Bengio, et.al* <br></br>
-*Publication Date: August 2, 2023*
+*Susanna Ricco and Utsav Prabhu,  Google Research* <br></br>
+*Publication Date: August 25, 2023*
 
 ---
 
