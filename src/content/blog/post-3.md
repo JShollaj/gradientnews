@@ -206,64 +206,60 @@ receiving massive hype.
 
 ---
 
-#### Platypus: Quick, Cheap, and Powerful Refinement of LLMs
+#### Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities
 
-<a href="https://arxiv.org/pdf/2308.07317v1.pdf">
-<img src="https://raw.githubusercontent.com/arielnlee/Platypus/master/assets/Best_Platty.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.12833">
+<img src="https://www.the-sun.com/wp-content/uploads/sites/6/2022/12/KS-killer-ai-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**:Platypus, a family of fine-tuned and merged Large Language Models (LLMs), has achieved the strongest performance and tops HuggingFace's Open LLM Leaderboard. 
+**Main Highlight:** The article underscores the emerging security and safety risks associated with the increasing use of large language models (LLMs) in various sectors. It categorizes these concerns into threats like fraud and malware generation, prevention measures against such threats, and vulnerabilities that may arise from imperfect prevention strategies. The paper aims to raise awareness among both developers and users about these security issues while advocating for peer-review to identify and prioritize relevant concerns.
 
-The project introduces Open-Platypus, a curated dataset released to the public, and describes the process of fine-tuning and merging LoRA modules to bring specific domain knowledge to the forefront. 
-
-The 13B Platypus model can be trained on a single A100 GPU in 5 hours with 25k questions, offering strong performance with significantly less data and compute resources than other state-of-the-art LLMs, opening opportunities for more improvements in the field.
+**Terms to Understand:** Large Language Models (LLMs), Security Threats, Prevention Measures.
 
 
-***[Read Full Paper](https://arxiv.org/pdf/2308.07317v1.pdf)***
+***[Read Full Paper](https://arxiv.org/abs/2308.12833)***
 
-*Lee, Hunter, Ruiz* <br></br>
-*Publication Date: 14 Aug , 2023*
+*Mozes, He, Kleinberg, Griffin* <br></br>
+*Publication Date: 24 Aug , 2023*
 
 ---
 
-#### TeCH: Text-guided Reconstruction of Lifelike Clothed Humans
+#### A Survey on Large Language Model based Autonomous Agents
 
-<a href="https://arxiv.org/pdf/2308.08545.pdf">
-<img src="https://i.ytimg.com/vi/MNA38AC9U5g/sddefault.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.11432v1">
+<img src="https://raw.githubusercontent.com/paitesanshi/llm-agent-survey/master/assets/trend.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**:TeCH has introduced a new method for reconstructing 3D clothed human figures from a single image, addressing the unsolved challenge of accurately restoring "unseen regions" of the body. The method leverages descriptive text prompts and a personalized Text-to-Image diffusion model to optimize the 3D human's geometry and texture. 
+**Main Highlight:** The article presents a comprehensive survey of the emerging field of autonomous agents based on large language models (LLMs). It categorizes research into three main aspects: agent construction, application across different domains like social science and engineering, and evaluation methods. The paper aims to establish a unified framework for LLM-based agents and identify challenges and future directions in this rapidly evolving field.
 
-The technology shows promise for various applications in augmented and virtual reality, gaming, and more, but also raises concerns regarding potential misuse for deep-fake avatars and intellectual property issues.
+**Terms to Understand:** Large Language Models (LLMs), Autonomous Agents, Unified Framework.
 
 
-***[Read Full Paper](https://arxiv.org/pdf/2308.08545.pdf)***
+***[Read Full Paper](https://arxiv.org/abs/2308.11432v1)***
 
-*Huang, Yi, Xiu et.al* <br></br>
-*Publication Date: 16 Aug , 2023*
+*Wang, Ma et.al* <br></br>
+*Publication Date: 22 Aug , 2023*
 
 ---
 
-#### XSTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models
+#### Prompt2Model: Generating Deployable Models from Natural Language Instructions
 
-<a href="https://arxiv.org/pdf/2308.01263.pdf">
-<img src="https://media.licdn.com/dms/image/D4D22AQHL9eIg5TEFvg/feedshare-shrink_2048_1536/0/1691223790525?e=2147483647&v=beta&t=Wtr3y3gcczS4gGqiF7NjuqwumAXMUZWdxbxDVszwm1M" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.12261">
+<img src="https://media.arxiv-vanity.com/render-output/8244125/x2.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight**:This paper introduces a test suite called XSTEST to identify exaggerated safety behaviors in large language models (LLMs), such as refusing safe requests due to misinterpretation as unsafe. 
+**Main Highlight:** The article introduces Prompt2Model, a new framework designed to create task-specific NLP models based on natural language prompts. This approach bridges the gap between the easy prototyping offered by large language models (LLMs) and the need for efficient, deployable models. Prompt2Model trains specialized models that outperform strong LLMs like gpt-3.5-turbo by an average of 20%, while being up to 700 times smaller, making it conducive for real-world deployment.
 
-Using XSTEST, the authors found that the Llama2 model exhibits substantial exaggerated safety behavior, refusin1g 38% of test prompts and partially refusing another 22%. 
-
-The findings suggest that this behavior is a result of lexical overfitting, making models overly sensitive to certain words, and that OpenAI's GPT-4 is better calibrated in comparison.
+**Terms to Understand:** Prompting, Task-specific models, Model distillation
 
 
-***[Read Full Paper](https://arxiv.org/pdf/2308.01263.pdf)***
+***[Read Full Paper](https://arxiv.org/abs/2308.12261)***
 
-*Röttger, Kirk, Vidgen, Attanasio, Bianchi et.al* <br></br>
-*Publication Date: 2 Aug , 2023*
+*Viswanathan, Zhao, Bertsch,  Wu, Neubig et.al* <br></br>
+*Publication Date: 23 Aug , 2023*
 
 ---
 ### Development
