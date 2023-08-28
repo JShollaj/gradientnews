@@ -190,7 +190,7 @@ receiving massive hype.
 #### Instruction Tuning for Large Language Models: A Survey
 
 <a href="https://arxiv.org/abs/2308.10792">
-<img src="https://storage.googleapis.com/wandb-production.appspot.com/vincenttu/images/projects/37228380/5a69d608.png?Expires=1693208671&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=RLgnikwMc5MbQDie1dkGCUcKWtWkEg%2FAYFlj936SDP%2BLaIPlbGJ%2BHyRVlmPvQEEnp%2BlrSNYyAdRpr%2FGUzAUb5kEvtMzBGNYia%2F1CB%2BBvYcsJqQkF2d%2BsMgkr1fGztrruxe6OwI1b1tzU5vm2iofWF5NsG%2B%2BeLXruWHdaw4aLUQr68PHeceJqjq4WpgQp5qA1kLnZg1uxTFk5sJWUtvrlBeackYINiuyZHFyxkHineKzEnF8t4SfmdxVlOrBo9vCt6oPYVYG%2B06fwWCIomqcUgaysVNWGnnBqeHvuEsyVhgUMaMSAajtB5KUmCEwXqtBcwiQdIzJHs8j8femED1Pubg%3D%3D" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<img src="https://www.wisecube.ai/wp-content/uploads/2023/05/Featured-Blog-Image-A-Comprehensive-Overview-of-Large-Language-Models-1080x675.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
@@ -323,51 +323,51 @@ receiving massive hype.
 
 <br></br>
 
-[CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/lectures/) 
+[Top 50 Machine Learning Projects for Beginners in 2023](https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397?utm_source=Twitter&utm_medium=Article30ml&utm_campaign=kirk_campaign) 
 
-Stanford Course on LLMs - Notes are open-sourced in the given links
+Machine Learning Projects Ideas for Beginners with Source Code in Python 2023-Interesting machine learning project ideas to kick-start a career in machine learning.
 
-***Liang, Hashimoto, Re, Bommasani, Xie | Stanford*** <br></br>
-
----
-
-[Large Language Models: Foundation Models from the Ground Up](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
-
-Databricks course available on EDX, starting from ground up to the main elements of Generative AI. Complementary for the LLM specialty certification.
-
-***Zaharia, Raymond, Eng | Databricks*** <br></br>
+***Project Pro*** <br></br>
 
 ---
 
-[LangChain: Various Tutorials](https://blog.langchain.dev/)
+[High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 
-Various tutorials which integrate LangChain with specific tools or frameworks, such as Predibase, Zep or Qdrant
+Free course on probabilistic foundations for theoretical research in modern data science from the University of California.
 
-***LangChain et. al*** <br></br>
-
----
-
-[DeepLearning AI: Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
-
-Free tutorial teaching concepts like dense retrieval, which elevates the relevance of retrieved information, leading to improved search results beyond traditional keyword search, and reranking, which injects the intelligence of LLMs into asearch system, making it faster and more effective.  
-
-***Cohere x DeepLearning*** <br></br>
+***Roman Vershynin | University of California, Irvine*** <br></br>
 
 ---
 
-[DeepLearning AI: Evaluating and Debugging Generative AI](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
+[Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 
-Free tutorial teaching concepts like monitoring and tracing of LLMs over time in complex interactions and properly debugging by use case.
+Collection of practical LLM guides, papers and tutorials (minus the hype).
 
-***W&B x DeepLearning*** <br></br>
+***Vicki Boykis*** <br></br>
 
 ---
 
-[DeepLearning AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+[Docker Command Cheat Sheet](https://twitter.com/hackinarticles/status/1695694789608411539)
 
-Free tutorial teaching how to create apps which integrate easily Generative AI (Hugging Face Integrations).
+Full detailed list of docker commands
 
-***Hugging Face x DeepLearning*** <br></br>
+***FOSS TechNix*** <br></br>
+
+---
+
+[LlamaIndex ](https://gpt-index.readthedocs.io/en/latest/index.html)
+
+LlamaIndex, previously known as GPT Index, is a data framework designed to facilitate the use of Large Language Models (LLMs) in applications requiring private or domain-specific data. The platform offers various tools including data connectors for data ingestion, data indexes for structuring, and multiple types of engines for natural language access to the data.
+
+***Various*** <br></br>
+
+---
+
+[DeepLearning AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+
+The course "Finetuning Large Language Models" led by Sharon Zhou, aims to educate participants on the nuances of finetuning Large Language Models (LLMs). Upon completion, students will be proficient in applying finetuning, preparing data for it, and training and evaluating an LLM. 
+
+***Lamini x DeepLearning*** <br></br>
 
 
 
