@@ -260,7 +260,7 @@ The main highlights for this week have open source initiatives developed by Meta
 *Author: Tencent AI Lab* <br></br>
 
 ---
-#### CodeLlama
+#### Graph of Thoughts: Solving Elaborate Problems with Large Language Models
 
 
 <a href="https://github.com/spcl/graph-of-thoughts">
@@ -284,51 +284,35 @@ This framework gives you the ability to solve complex problems by modeling them 
 
 <br></br>
 
-[Top 50 Machine Learning Projects for Beginners in 2023](https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397?utm_source=Twitter&utm_medium=Article30ml&utm_campaign=kirk_campaign) 
+[Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) 
 
-Machine Learning Projects Ideas for Beginners with Source Code in Python 2023-Interesting machine learning project ideas to kick-start a career in machine learning.
+This is a collection of (mostly) pen-and-paper exercises in machine learning. The exercises are on the following topics: linear algebra, optimisation, directed graphical models, undirected graphical models, expressive power of graphical models, factor graphs and message passing, inference for hidden Markov models, model-based learning (including ICA and unnormalised models), sampling and Monte-Carlo integration, and variational inference.
 
-***Project Pro*** <br></br>
-
----
-
-[High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
-
-Free course on probabilistic foundations for theoretical research in modern data science from the University of California.
-
-***Roman Vershynin | University of California, Irvine*** <br></br>
+***Gutmann*** <br></br>
 
 ---
 
-[Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+[Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction)
 
-Collection of practical LLM guides, papers and tutorials (minus the hype).
+A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 
-***Vicki Boykis*** <br></br>
-
----
-
-[Docker Command Cheat Sheet](https://twitter.com/hackinarticles/status/1695694789608411539)
-
-Full detailed list of docker commands
-
-***FOSS TechNix*** <br></br>
+***Valeman*** <br></br>
 
 ---
 
-[LlamaIndex ](https://gpt-index.readthedocs.io/en/latest/index.html)
+[Stanford XCS224U: Natural Language Understanding I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
 
-LlamaIndex, previously known as GPT Index, is a data framework designed to facilitate the use of Large Language Models (LLMs) in applications requiring private or domain-specific data. The platform offers various tools including data connectors for data ingestion, data indexes for structuring, and multiple types of engines for natural language access to the data.
+This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods.
 
-***Various*** <br></br>
+***Christopher Potts / Stanford*** <br></br>
 
 ---
 
-[DeepLearning AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+[DeepLearning AI: How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
 
-The course "Finetuning Large Language Models" led by Sharon Zhou, aims to educate participants on the nuances of finetuning Large Language Models (LLMs). Upon completion, students will be proficient in applying finetuning, preparing data for it, and training and evaluating an LLM. 
+In this course, you’ll learn how to use and create with Microsoft’s open source orchestrator, Semantic Kernel. Along the way you’ll gain skills in getting the most out of LLMs developing prompts, semantic functions, vector databases and using an LLM for planning.
 
-***Lamini x DeepLearning*** <br></br>
+***Microsoft x DeepLearning*** <br></br>
 
 
 
