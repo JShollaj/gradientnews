@@ -12,308 +12,271 @@ draft: false
 
 The main highlights for this week have open source initiatives developed by Meta in Code-Llama as well as numerous frameworks assisting LLM development. New surveys have been conducted to keep track of Agents in LLM and Fine-tuning.
 
-#### How con artists use AI, apps, social engineering to target parents, grandparents for theft
+#### AI 'nose' predicts smells from molecular structures
 
-<a href="https://www.cbsnews.com/news/how-con-artists-use-ai-apps-to-steal-60-minutes-transcript/">
-  <img src="https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/19/7919cb6f-0c2b-4b74-ba13-bdd35f4c43fb/thumbnail/1240x698/9d17c2b004047f49fb47c0f305b97b75/digital-theft-transcript.jpg?v=85153828b1c3c07a041ab8e73ff87e39" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<a href="https://phys.org/news/2023-09-ai-nose-molecular.html">
+  <img src="https://scx1.b-cdn.net/csz/news/800a/2023/-ai-nose-predicts-smel.jpg" width="500" height="500" alt="AI 'nose' predicts smells from molecular structures"></img>
 </a>
 
 
 
-**Main Highlight:** The article discusses the growing problem of online scams targeting older Americans, revealing that seniors are the group losing the most money to these scams. Utilizing AI, social engineering, and readily available apps, scammers are executing increasingly sophisticated operations, including the "grandparent scam," which cost victims thousands of dollars. A report from the FBI notes that Americans lost over $10 billion to online scams and digital fraud last year.
+**Main Highlight:** Scientists have developed a machine-learning tool that can predict the odor of a molecule based solely on its molecular structure. This breakthrough technology could be a game-changer for synthetic chemists in the food and fragrance industries, providing the ability to screen large numbers of molecules for aroma.
 
-**Terms to Understand:** Grandparent Scam, Social Engineering, Ethical Hacker
+**Terms to Understand:** Machine Learning, Odor Prediction, Molecular Structure
 
-***[Read Full Article](https://www.cbsnews.com/news/how-con-artists-use-ai-apps-to-steal-60-minutes-transcript/)***
+***[Read Full Article](https://phys.org/news/2023-09-ai-nose-molecular.html)***
 
-*Sharyn Alfonsi | CBS News* <br></br>
-*Publication Date: August 27, 2023*
+*University of Reading* <br></br>
+*Publication Date: September 2, 2023*
 
 ---
-#### Midjourney Takes on Photoshop with Its Own AI Generative Fill-Like Feature
+#### AI tech gives back 'voice' to woman with post-stroke locked-in syndrome
 
-<a href="https://beebom.com/midjourney-generative-fill-feature-takes-on-photoshop/">
-  <img src="https://beebom.com/wp-content/uploads/2023/08/This-image-represents-the-Midjourney-server-on-Discord.jpg?quality=75&strip=all" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
+<a href="https://www.medicalnewstoday.com/articles/ai-tech-gives-back-voice-to-woman-with-post-stroke-locked-in-syndrome">
+  <img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/07/woman-having-Hot-flashes-in-bed-thumbnail-732x549.jpg" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
 </a>
 
 
 
-**Main Highlight:** Midjourney, a leading AI art generator, is launching a new feature called Vary (Region), designed to compete with Adobe Photoshop’s Generative Fill tool. The Vary (Region) feature allows users to regenerate specific parts of an upscaled image, giving them the ability to add, remove, or alter elements within the image.
+**Main Highlight:** Researchers from the University of California San Francisco have created a technology that allows people with locked-in syndrome to communicate and express facial emotions via a brain implant and a digital avatar. The system was successfully tested on a woman, enabling her to "speak" and express emotions through the avatar, which used her actual pre-injury voice.
 
-**Terms to Understand:** Generative Fill, Vary (Region), Text-to-Image Generation
+**Terms to Understand:** Locked-in Syndrome, Brain Implant, Digital Avatar
 
-***[Read Full Article](https://beebom.com/midjourney-generative-fill-feature-takes-on-photoshop/)***
+***[Read Full Article](https://www.medicalnewstoday.com/articles/ai-tech-gives-back-voice-to-woman-with-post-stroke-locked-in-syndrome)***
 
-*Siddhartha Samaddar | Beebom* <br></br>
-*Publication Date: August 27, 2023*
-
----
-
-#### Can AI-generated art be copyrighted? A US judge says not, but it’s just a matter of time
-
-<a href="https://www.theguardian.com/commentisfree/2023/aug/26/ai-generated-art-copyright-law-recent-entrance-paradise-creativity-machine">
-<img src="https://i.guim.co.uk/img/media/85c3866dcc65fd37d2e15aff02fc846204b0b57c/0_0_1890_1417/master/1890.jpg?width=620&dpr=2&s=none" width="500" height="500" alt="Generative AI: Liquid Networks"></img>
-</a>
-
-**Main Highlight:** A U.S. federal judge recently denied copyright protection to an artwork generated solely by an AI, citing that current American copyright laws protect only works of human creation. However, the judge acknowledged that copyright law is flexible enough to adapt to technological innovations and suggested that it's just a matter of time before works created by AI could qualify for copyright.
-
-**Terms to Understand:** Human Involvement Criterion, Copyright Law, AI-Generated Art
-
-***[Read Full Article](https://www.theguardian.com/commentisfree/2023/aug/26/ai-generated-art-copyright-law-recent-entrance-paradise-creativity-machine)***
-
-*John Naughton | The Guardian* <br></br>
-*Publication Date: August 26, 2023*
+*Corrie Pelc | Medical News Today* <br></br>
+*Publication Date: August 30, 2023*
 
 ---
 
+#### Amazon increases fees, ChatGPT comes to the enterprise, and Apple announces a press conference
 
-#### How To Use AI To Create an Award-Winning Podcast
-
-<a href="https://www.entrepreneur.com/growing-a-business/using-chatgpt-and-ai-for-podcast-content-strategy/458084">
-<img src="https://media.wired.com/photos/6435f92f13021b2cf16d62ab/16:9/w_2400,h_1350,c_limit/AI-Podcast-GettyImages-1131242410.jpg" width="500" height="500" alt="Open AI: Generative AI Company"></img>
+<a href="https://techcrunch.com/2023/09/02/amazon-increases-fees-chatgpt-comes-to-the-enterprise-and-apple-announces-a-press-conference/">
+<img src="https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?w=1390&crop=1s" width="500" height="500" alt="Generative AI News"></img>
 </a>
 
+**Main Highlight:** This week's major tech developments include Teamshares, a startup that's buying up small businesses without succession plans to expand its fintech product line. Zepto became India's first unicorn of 2023 with a valuation of $1.4 billion and plans to IPO in 2025. Google has introduced BigQuery Studio, a comprehensive data management service, while OpenAI is launching an enterprise version of ChatGPT with enhanced privacy and data analysis capabilities.
 
-**Main Highlight:** The article discusses how the integration of AI and predictive analytics can give podcast creators a competitive edge by tailoring content to their audience, automating content curation, enhancing listener interaction, and personalizing advertising. However, it emphasizes the need to maintain the human element for authenticity and personal touch in podcasts.
+**Terms to Understand:** Teamshares, Zepto, BigQuery Studio, ChatGPT Enterprise
 
-**Terms to Understand:** Predictive Analytics, Artificial Intelligence (AI), Content Strategy
 
-***[Read Full Article](https://www.entrepreneur.com/growing-a-business/using-chatgpt-and-ai-for-podcast-content-strategy/458084)***
+***[Read Full Article](https://techcrunch.com/2023/09/02/amazon-increases-fees-chatgpt-comes-to-the-enterprise-and-apple-announces-a-press-conference/)***
 
-*Entrepreneur | Adam Torkildson* <br></br>
-*Publication Date: August 25, 2023*
+*Kyle Wiggers | Techcrunch* <br></br>
+*Publication Date: September 3 , 2023*
 
 ---
 
-#### Using GPT-4 for content moderation
 
-<a href="https://www.visualcapitalist.com/nvidia-vs-amd-vs-intel-comparing-ai-chip-sales/">
-<img src="https://www.visualcapitalist.com/wp-content/uploads/2023/08/Nvidia-vs-AMD-vs-Intel_AI-Chip-Sales.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+#### Fast-tracking fusion energy’s arrival with AI and accessibility
+
+<a href="https://news.mit.edu/2023/fast-tracking-fusion-energy-with-ai-and-accessibility-0901">
+<img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202309/US_Fusion_Energy_Outreach_What_is_Fusion_3%202%20ratio.png?itok=dZ7JvlYn" width="500" height="500" alt="Open AI: Generative AI Company"></img>
 </a>
 
 
-**Main Highlight:** Nvidia has emerged as a dominant player in AI chip sales, with its Data Center revenue reaching $10.3 billion in Q2 2023 and capturing more than 70% of the AI chip market share. AMD trails behind, but is refocusing on AI with new chips offering more memory. Intel lags significantly, facing declining revenue and nearly no share in the AI chip market.
+**Main Highlight:** The U.S. Department of Energy has funded a project led by MIT's Plasma Science and Fusion Center to create a unified data platform for fusion research that can be processed by AI tools. The platform aims to make fusion data more accessible and organized, thereby accelerating scientific discovery and encouraging diversity in the fusion and data science workforce.
 
-**Terms to Understand:** Data Center Revenue, Market Share, AI Chips
+**Terms to Understand:** DoE Funding, Fusion Data Platform, AI-powered Tools
 
-***[Read Full Article](https://www.visualcapitalist.com/nvidia-vs-amd-vs-intel-comparing-ai-chip-sales/)***
+***[Read Full Article](https://news.mit.edu/2023/fast-tracking-fusion-energy-with-ai-and-accessibility-0901)***
 
-*Visual Capitalist | Jenna Ross & Sam Parker* <br></br>
-*Publication Date: August 25, 2023*
+*MIT News | Julianna Mullen* <br></br>
+*Publication Date: September 1, 2023*
 
 ---
 ### Research Blogs
 
-#### Teaching language models to reason algorithmically
+#### Modeling and improving text stability in live captions
 
-<a href="https://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin8actGxFN2C2mvGMhV_fSzN4Cta1Yd84uvVO5fRO2RcMjzrPY1t-V0mJ2u0x1s0zpCW3bKLX-_3kF4twqNyQMMTrmlTeOvfVdwS6iMYabwgE_RVPe_PFKM6-JBdGS1B8WyMmiVLRalfhD-mN4c-CE4ZXQNhL-Q8pP3q-uy_Xt6i7VkZCGiKqA97AGFnlB/w640-h89/image1.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://blog.research.google/2023/08/modeling-and-improving-text-stability.html">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGZb1acXj87Bz13Qj_Gzw47F4gfB5-ZZ-5qYNLBUkdjmNAyIjp3tOHH4hwUIXrpKCg1G_zoZ2DvlWOd45w4_GiltlNjsU3dz82vn9qhoTJR1R_1vQB6rtZDOF9kFsJaUDHaJ7QWnKQzziGKsnfO1TK0HxWHFtI4mqkoDGkBSklE9p4_jt0FdUC9WDt_lg/s16000/image3.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:** The article discusses a new approach for teaching Large Language Models (LLMs) algorithmic reasoning capabilities through in-context learning and algorithmic prompting. This enables LLMs to solve more complex arithmetic problems and work effectively on out-of-distribution examples, potentially unlocking greater reasoning capabilities in such models.
+**Main Highlight:** The paper "Modeling and Improving Text Stability in Live Captions" tackles the issue of text instability in live captions, often manifesting as distracting 'flicker'. The researchers formalized this problem by developing a vision-based flicker metric and then introduced a stability algorithm that uses tokenized alignment, semantic merging, and smooth animation. Their user study of 123 participants showed that the stabilization techniques significantly improved the viewer experience.
 
-**Terms to Understand:** In-Context Learning, Algorithmic Prompting, Out-of-Distribution Generalization
+**Terms to Understand:** Text Stability, Flicker Metric, Stability Algorithm
 
-***[Read Full Article](https://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html)***
+***[Read Full Article](https://blog.research.google/2023/08/modeling-and-improving-text-stability.html)***
 
-*Hattie Zhou, Hanie Sedghi - Google Research* <br></br>
-*Updated Publication Date: August 8, 2023*
+*Bahirwani, Xu - Google Research* <br></br>
+*Updated Publication Date: August 30, 2023*
 
 ---
 
-#### Responsible AI at Google Research: Perception Fairness
+#### WeatherBench 2: A benchmark for the next generation of data-driven weather models
 
-<a href="https://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfN1jwbJve1vMavRMJkmG6JXejOEdb4irf3KcYGnf-_UdciQRy_gXI0D6x9afEZLjCZwb9C0VfyXbvhuckpTonH8ghjgAJ7yDZsc0OlEOznCZlNg_OQxYacKcwDJSMkWPm8Xc_EROheeAsCYFVyYsigqA7Ydfnl9k5rB6erVkYpL7MqBpdeqIJm9H5sani/w640-h144/image1.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4wXcTQkAGkbuhb__Df-rb5aC9iq11GMRSxV4ESzRlk22iiL2Y-08zH2oQDspXn4KxdQlzkO_SD0tX6-ZkxF_5hdQslK1PKIgB0HwKeCdYUZLtr_H2603WSXi0oDD_Brn7KHaAeO6Hq8g7-MscBpAGn7lV7WLUNX6RPxl1qA7RgO3ZUlOjLP0dX7ifrxsm/s1200/image2.gif" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
+**Main Highlight:** Google Research has announced WeatherBench 2 (WB2), an updated benchmark for next-generation data-driven weather models. WB2 aims to speed up the progress of machine learning-based weather forecasts by offering a trusted, reproducible framework for model evaluation. The machine learning models are showing comparable or even better performance than traditional physics-based models, and they can make quick forecasts on inexpensive hardware.
 
-**Main Highlight:** Google's Perception Fairness team is actively working on integrating fairness and inclusion into multimodal machine learning systems, including computer vision and generative AI technologies. The team's research spans from addressing system biases to optimizing performance metrics that include fairness, with practical applications influencing Google's products like Search and Google Photos.
-
-**Terms to Understand:** Multimodal Machine Learning, Perception Fairness, AI Principles
+**Terms to Understand:** WeatherBench 2 (WB2), Machine Learning in Weather Forecasting, Evaluation Framework
 
 
-***[Read Full Paper](https://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html)***
+***[Read Full Paper](https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html)***
 
-*Susanna Ricco and Utsav Prabhu,  Google Research* <br></br>
-*Publication Date: August 25, 2023*
+* Rasp, Bromberg,  Google Research* <br></br>
+*Publication Date: August 31, 2023*
 
 ---
 
 ### Research Papers
 
 
-#### Code Llama: Open Foundation Models for Code
+#### Vector Search with OpenAI Embeddings: Lucene Is All You Need
 
-<a href="https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/">
-<img src="https://scontent.fsin15-1.fna.fbcdn.net/v/t39.8562-6/369652058_690162392972818_1173984281354057457_n.gif?_nc_cat=103&ccb=1-7&_nc_sid=6825c5&_nc_ohc=GoF9AI5vkZsAX9cKP_I&_nc_ht=scontent.fsin15-1.fna&oh=00_AfDvbxRKlA_C0q3V4TFhrtruYg3HgWhnJJGJ_FYnsPGUuw&oe=64F03FD3" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.14963">
+<img src="https://pbs.twimg.com/profile_images/1365352170267299840/IzvjKckL_400x400.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
 
-**Main Highlight:** The article introduces Code Llama, a family of large language models designed for code generation and infilling tasks. These models come in different flavors, specialized for Python and instruction-following, and are available in sizes with 7B, 13B, and 34B parameters. They are trained to handle large contexts up to 100k tokens and have shown state-of-the-art performance in code benchmarks like HumanEval and MBPP.
+**Main Highlight:** The paper challenges the prevailing notion that a specialized vector store is essential for leveraging deep neural networks in search applications. Using Lucene's Hierarchical Navigable Small-World (HNSW) indexes, the authors demonstrate that existing search infrastructure can efficiently handle vector search with OpenAI embeddings. This suggests that adding a dedicated vector store to an already complex AI stack may not offer a justified cost-benefit advantage.
 
-**Terms to Understand:** Code Llama (family of large language models for code), Infilling (filling in missing parts of code), HumanEval & MBPP (code benchmarks).
+**Terms to Understand:** Lucene, Hierarchical Navigable Small-World (HNSW) indexes, Vector Search
 
 
-***[Read Full Paper](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)***
+***[Read Full Paper](https://arxiv.org/abs/2308.14963)***
 
-*Meta* <br></br>
-*Publication Date: 24 Aug , 2023*
+*Lin, Pradeep, Teofili, Xian* <br></br>
+*Publication Date: 30 Aug , 2023*
 
 ---
 
-#### ExpeL: LLM Agents Are Experiential Learners
+#### Transformers as Support Vector Machines
 
-<a href="https://arxiv.org/abs/2308.10144">
-<img src="https://www.researchgate.net/publication/373262870/figure/fig1/AS:11431281182949679@1692674574042/ExpeL-Agent-Overview-Left-ExpeL-operates-in-three-stages-1-Collection-of-success-and.ppm" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.16898v1">
+<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/featured_image.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
+**Main Highlight:** The paper establishes a formal link between the optimization geometry of self-attention in transformer models and hard-margin SVM problems. This relationship provides insights into how transformers make decisions when trained with gradient descent. The study reveals that over-parameterization aids in global convergence and the results are validated with experiments across diverse datasets.
 
-**Main Highlight:** The paper introduces the Experiential Learning (ExpeL) agent, a novel Large Language Model (LLM) designed for custom decision-making tasks. Unlike traditional LLMs, ExpeL doesn't require fine-tuning or access to model parameters; it learns from experience and past tasks to make informed decisions, thereby improving its own performance over time. The agent has been empirically shown to outperform strong baselines in various domains and exhibits forward transferability of knowledge.
-
-**Terms to Understand:** Experiential Learning (ExpeL), Large Language Models (LLMs), Forward Transferability
+**Terms to Understand:** Self-Attention, Optimization Geometry, Hard-Margin SVM
 
 
-***[Read Full Paper](https://arxiv.org/abs/2308.10144)***
+***[Read Full Paper](https://arxiv.org/abs/2308.16898v1)***
 
-*Zhao, Huang, Xu, Lin, Liu, Huang* <br></br>
-*Publication Date: 20 Aug , 2023*
+*Tarzanagh, Li, Thrampoulidis, Oymak* <br></br>
+*Publication Date: 31 Aug , 2023*
 
 ---
 
-#### Instruction Tuning for Large Language Models: A Survey
+#### SAM-Med2D: Segment Anything Model 
 
-<a href="https://arxiv.org/abs/2308.10792">
-<img src="https://www.wisecube.ai/wp-content/uploads/2023/05/Featured-Blog-Image-A-Comprehensive-Overview-of-Large-Language-Models-1080x675.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.16184v1">
+<img src="https://images.prismic.io/encord/b1552393-346e-4dc2-913d-6d8100789907_univercel-segmentation-model.png?auto=compress,format" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:** The paper provides a comprehensive survey on the emerging field of Instruction Tuning (IT) for large language models (LLMs). It delves into the methodologies, dataset construction, model training, applications across various modalities, and critiques of IT. The paper also identifies the advantages and shortcomings of IT, including its ability to make LLMs more controllable and challenges related to the quality of instructions and task understanding.
+**Main Highlight:** The paper introduces SAM-Med2D, a specialized adaptation of the Segment Anything Model (SAM) for medical image segmentation. While SAM performed poorly in medical imaging due to a significant domain gap, SAM-Med2D fills this void by incorporating a large-scale medical image dataset of approximately 4.6M images and 19.7M masks. The model is fine-tuned comprehensively and has shown significantly better performance and generalization capabilities across various medical imaging scenarios compared to the original SAM.
 
-**Terms to Understand:** Instruction Tuning (IT), Large Language Models (LLMs), Dataset Construction.
+**Terms to Understand:** SAM (Segment Anything Model), SAM-Med2D, Medical Image Segmentation
 
 
-***[Read Full Paper](https://arxiv.org/abs/2308.10792)***
+***[Read Full Paper](https://arxiv.org/abs/2308.16184v1)***
 
-*Zhang, Dong et. al* <br></br>
-*Publication Date: 21 Aug , 2023*
+*Cheng, Ye et. al* <br></br>
+*Publication Date: 30 Aug , 2023*
 
 ---
 
-#### Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities
+#### PointLLM: Empowering Large Language Models to Understand Point Clouds
 
-<a href="https://arxiv.org/abs/2308.12833">
-<img src="https://www.the-sun.com/wp-content/uploads/sites/6/2022/12/KS-killer-ai-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://arxiv.org/abs/2308.16911">
+<img src="https://miro.medium.com/v2/resize:fit:740/1*KfEgJOhqFrDxLMgXfskM7Q.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:** The article underscores the emerging security and safety risks associated with the increasing use of large language models (LLMs) in various sectors. It categorizes these concerns into threats like fraud and malware generation, prevention measures against such threats, and vulnerabilities that may arise from imperfect prevention strategies. The paper aims to raise awareness among both developers and users about these security issues while advocating for peer-review to identify and prioritize relevant concerns.
+**Main Highlight:** The paper introduces PointLLM, a groundbreaking initiative that enables Large Language Models (LLMs) to understand and process 3D point clouds. This capability expands LLMs beyond text and 2D visual data, showing superior performance over 2D baselines and even outperforming human annotators in object captioning tasks by over 50%. The model employs a two-stage training strategy using a novel dataset of 660K simple and 70K complex point-text instruction pairs.
 
-**Terms to Understand:** Large Language Models (LLMs), Security Threats, Prevention Measures.
+**Terms to Understand:** PointLLM, 3D Point Clouds, Large Language Models (LLMs)
 
 
-***[Read Full Paper](https://arxiv.org/abs/2308.12833)***
+***[Read Full Paper](https://arxiv.org/abs/2308.16911)***
 
-*Mozes, He, Kleinberg, Griffin* <br></br>
-*Publication Date: 24 Aug , 2023*
+*Xu, Wang, Chen, Pang , Lin* <br></br>
+*Publication Date: 31 Aug , 2023*
 
 ---
 
-#### A Survey on Large Language Model based Autonomous Agents
+#### Bridging the data gap between children and large language models
 
-<a href="https://arxiv.org/abs/2308.11432v1">
-<img src="https://raw.githubusercontent.com/paitesanshi/llm-agent-survey/master/assets/trend.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://www.sciencedirect.com/science/article/pii/S1364661323002036?dgcid=author">
+<img src="https://si.wsj.net/public/resources/images/B3-FE217_WEBROB_750RV_20191009173148.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:** The article presents a comprehensive survey of the emerging field of autonomous agents based on large language models (LLMs). It categorizes research into three main aspects: agent construction, application across different domains like social science and engineering, and evaluation methods. The paper aims to establish a unified framework for LLM-based agents and identify challenges and future directions in this rapidly evolving field.
+**Main Highlight:** The paper discusses the significant gap in data efficiency between human learners, especially children, and large language models (LLMs). It offers three potential reasons for humans' superior data efficiency: evolutionary advantages, rich sensory experience, and the nature of social, interactive language input. The paper also hints at future research paths to improve LLM efficiency, such as using more grounded, interactive training data.
 
-**Terms to Understand:** Large Language Models (LLMs), Autonomous Agents, Unified Framework.
-
-
-***[Read Full Paper](https://arxiv.org/abs/2308.11432v1)***
-
-*Wang, Ma et.al* <br></br>
-*Publication Date: 22 Aug , 2023*
-
----
-
-#### Prompt2Model: Generating Deployable Models from Natural Language Instructions
-
-<a href="https://arxiv.org/abs/2308.12261">
-<img src="https://media.arxiv-vanity.com/render-output/8244125/x2.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
-</a>
+**Terms to Understand:** Data efficiency, Large Language Models (LLMs), human learning
 
 
-**Main Highlight:** The article introduces Prompt2Model, a new framework designed to create task-specific NLP models based on natural language prompts. This approach bridges the gap between the easy prototyping offered by large language models (LLMs) and the need for efficient, deployable models. Prompt2Model trains specialized models that outperform strong LLMs like gpt-3.5-turbo by an average of 20%, while being up to 700 times smaller, making it conducive for real-world deployment.
+***[Read Full Paper](https://www.sciencedirect.com/science/article/pii/S1364661323002036?dgcid=author)***
 
-**Terms to Understand:** Prompting, Task-specific models, Model distillation
-
-
-***[Read Full Paper](https://arxiv.org/abs/2308.12261)***
-
-*Viswanathan, Zhao, Bertsch,  Wu, Neubig et.al* <br></br>
-*Publication Date: 23 Aug , 2023*
+*Frank et.al* <br></br>
+*Publication Date: 31 Aug , 2023*
 
 ---
+
 ### Development
 
-#### DSPy: The framework for programming with foundation models
+#### ChatDev: Create Customized Software with Natural Language Ideas
 
-<a href="https://github.com/stanfordnlp/dspy">
-<img src="https://raw.githubusercontent.com/stanfordnlp/dspy/main/docs/images/DSPy8.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://github.com/OpenBMB/ChatDev">
+<img src="https://raw.githubusercontent.com/OpenBMB/ChatDev/main/misc/logo1.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:** DSPy is a Pythonic framework designed to make working with language models (LMs) and retrieval models (RMs) easier and more efficient. It provides modular, composable techniques for tasks like prompting, fine-tuning, and reasoning. The framework also introduces an automatic compiler that can train LMs on tasks without manual label engineering, making it scalable and adaptive to a variety of tasks.
+**Main Highlight:** ChatDev is a virtual software company made up of intelligent agents serving in various roles like CEO, CTO, Programmer, etc. Its main objective is to offer a highly customizable framework based on large language models for studying collective intelligence. The system is already live with features including customizability for the software development process and both online log and replay modes.
 
-**Terms to Understand:** Language Models (LMs), Retrieval Models (RMs), Prompting, Fine-Tuning, Compiler
+**Terms to Understand:** ChatDev, Intelligent Agents, Large Language Models
 
 
-***[Repository](https://github.com/stanfordnlp/dspy)***
+***[Repository](https://github.com/OpenBMB/ChatDev)***
 
-*Author(s): Omar Khattab, Chris Potts and Matei Zaharia* <br></br>
+*Author(s): OpenBMB* <br></br>
 
 ---
 
-#### GPT Pilot
+#### IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
 
 
-<a href="https://github.com/Pythagora-io/gpt-pilot">
-<img src="https://user-images.githubusercontent.com/10895136/262046511-d89ba1d4-1208-4b7f-b3d4-76e3ccea584e.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://github.com/tencent-ailab/IP-Adapter">
+<img src="https://raw.githubusercontent.com/tencent-ailab/IP-Adapter/main/assets/figs/fig1.png" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:**  GPT Pilot is a research project aimed at using GPT-4 to automate the coding of production-ready apps. Although it can handle 95% of the coding, the remaining 5% requires human intervention for fine-tuning and debugging. The tool allows step-by-step development, facilitating easier debugging and better code understanding, and it is designed to scale for large and complex applications.
+**Main Highlight:**  The IP-Adapter is a lightweight yet effective module designed to enable text-to-image diffusion models to use image prompts. With just 22M parameters, it performs comparably or even better than fine-tuned image prompt models and supports multimodal image generation. The repository is continuously updated, and it offers various demos to showcase its capabilities, including face image prompts and fine-grained features.
 
-**Terms to Understand:** GPT Pilot, AGI (Artificial General Intelligence), TDD (Test Driven Development)
+**Terms to Understand:** IP-Adapter, Text-to-Image Diffusion Models, Multimodal Image Generation
 
+***[Repository](https://github.com/tencent-ailab/IP-Adapter)***
 
-***[Repository](https://github.com/Pythagora-io/gpt-pilot)***
-
-*Author: Pythagora-io* <br></br>
+*Author: Tencent AI Lab* <br></br>
 
 ---
 #### CodeLlama
 
 
-<a href="https://github.com/facebookresearch/codellama">
-<img src="https://i.ytimg.com/vi/U24mPUHXuv8/maxresdefault.jpg" width="500" height="500" alt="Open AI: Content Moderator"></img>
+<a href="https://github.com/spcl/graph-of-thoughts">
+<img src="https://raw.githubusercontent.com/spcl/graph-of-thoughts/ef3ce13d390c7b48f311672d3039e0da03336843/paper/pics/preview.svg" width="500" height="500" alt="Open AI: Content Moderator"></img>
 </a>
 
 
-**Main Highlight:** Code Llama is a state-of-the-art family of large language models for code with various specializations, including Python and instruction-following. It offers models with 7B, 13B, and 34B parameters and supports large input contexts and zero-shot instruction following. The technology is aimed at individuals, creators, researchers, and businesses to foster innovation in code-related tasks.
+**Main Highlight:** This is the official implementation of Graph of Thoughts: Solving Elaborate Problems with Large Language Models.
+This framework gives you the ability to solve complex problems by modeling them as a Graph of Operations (GoO), which is automatically executed with a Large Language Model (LLM) as the engine.
 
 **Terms to Understand:** Infilling, Zero-Shot Instruction Following, Tokenizers
 
 
-***[Repository](https://github.com/facebookresearch/codellama)***
+***[Repository](https://github.com/spcl/graph-of-thoughts)***
 
-*Author: Meta* <br></br>
+*Author: SPCL* <br></br>
 
 ---
 
